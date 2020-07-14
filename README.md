@@ -1,21 +1,21 @@
 Source code for "Cell cycle-associated expression patterns predict 
 gene function in mycobacteria". Bandekar et al (2020). Current Biology.
-
+-----------------------------------------------
 copyright 2020, Thomas R. Ioerger (ioerger@cs.tamu.edu)
 
 
 Gaussian-Process Smoothing of expression profiles
 -------------------------------------------------
 
-script: fitGP.py
-dependency: GPy python package (https://gpy.readthedocs.io/en/deploy/)
-input file: total_deseq_norm_skip0hr.txt (script automatically reads this)
-output: creates a .png file with plot of expression for a gene over 54hr, with a trend curve fit by a Gaussian Process
-usage: python fitGP.py <orfID> <cos|rv> <output.png>
-  (orf IDs must correspond to genes in the annotation of M. tuberculosis H37Rv, NC_000962.2)
-  (select 'cos' if you want to see expression in cold-sensitive DnaA-mutant, or 'rv' for H37Rv control culture)
-example: python fitGP.py Rv1907c cos Rv1907c_cos.png
-runtime: about 15 seconds
+* script: fitGP.py
+* dependency: GPy python package (https://gpy.readthedocs.io/en/deploy/)
+* input file: total_deseq_norm_skip0hr.txt (script automatically reads this)
+* output: creates a .png file with plot of expression for a gene over 54hr, with a trend curve fit by a Gaussian Process
+* usage: python fitGP.py <orfID> <cos|rv> <output.png>
+ *  (orf IDs must correspond to genes in the annotation of M. tuberculosis H37Rv, NC_000962.2)
+ *  (select 'cos' if you want to see expression in cold-sensitive DnaA-mutant, or 'rv' for H37Rv control culture)
+* example: python fitGP.py Rv1907c cos Rv1907c_cos.png
+* runtime: about 15 seconds
 
 
 
