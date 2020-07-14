@@ -47,8 +47,8 @@ curves to identify periodic genes.
 ------------------------------------------------------------------
 
 - script: curvefit2.py
-- dependenceies: scipy and statsmodels (python packages)
-- usage: `python curvefit2.py [cos|rv] - fit curves for all genes to cos or rv cells`
+- dependencies: scipy and statsmodels (python packages)
+- usage: `python curvefit2.py [cos|rv]` - fits curves for all genes to cos or rv cells
 - input file: corr.txt (contains correlation coefficients between cos and rv for all genes; script automatically reads this)
 - runtime: about 15 seconds
 - output: tab-separated spreadsheet
