@@ -30,13 +30,15 @@ Cell-cycle Modeling
 - parameters: if users wish to try different parameters, they can edit the last line of the script, which calls sim()
 
 - Example: 
-```> python sim4.py
+```
+> python sim4.py
 Cycle=35(1), Shift=10, Recov=6, FHA=0.8,
 ChromDupInit=20, DupWin=12+~7, GrowthRate=0.07, Delay=0.3
 cc_od = 0.9195
 cc_oriter = 0.9607
 cc_fha = 0.9577
-(see temp.png)```
+(see temp.png)
+```
 
 
 
