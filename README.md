@@ -54,16 +54,16 @@ curves to identify periodic genes.
 - output: tab-separated spreadsheet
 - Example: `python curvefit2.py cos > curvefit2_cos.txt`
 - columns in output file:
- -  orf ID
- -  gene Name
- -  COG category
- -  mean expression (over 15 timepoints, 2 reps each)
- -  standard deviation
- -  5 parameters for sin: amplitude A, frequency B, phase C, trend D, const E (formula: `A*sin(2.*PI*B*(x/55.)+C)+x*D+E)`
- -  RSS_sin - residual sum-of-squares with respect to sin fit
- -  correlation coefficient of predicted vs actual expression values
- -  period - 55/freq
- -  3 parameters for quadratic: A, B, C (`Ax^2+Bx+C`)
- -  RSS_quad - residual sum-of-squares with respect to quadratic fit
- -  RSS_sin/RSS_quad - if this ratio is >0.45, genes are considered periodic
+  -  orf ID
+  -  gene Name
+  -  COG category
+  -  mean expression (over 15 timepoints, 2 reps each)
+  -  standard deviation
+  -  5 parameters for sin: amplitude A, frequency B, phase C, trend D, const E (formula: `A*sin(2.*PI*B*(x/55.)+C)+x*D+E)`
+  -  RSS_sin - residual sum-of-squares with respect to sin fit
+  -  correlation coefficient of predicted vs actual expression values
+  -  period - 55/freq
+  -  3 parameters for quadratic: A, B, C (`Ax^2+Bx+C`)
+  -  RSS_quad - residual sum-of-squares with respect to quadratic fit
+  -  RSS_sin/RSS_quad - if this ratio is >0.45, genes are considered periodic
 
