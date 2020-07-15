@@ -49,10 +49,10 @@ curves to identify periodic genes.
 
 - script: curvefit2.py
 - dependencies: scipy and statsmodels (python packages)
-- usage: `python curvefit2.py [cos|rv]` - fits curves for all genes to cos or rv cells
+- usage: `python curvefit2.py [cos|rv]` 
 - input file: corr.txt (contains correlation coefficients between cos and rv for all genes; script automatically reads this)
+- output: fits curves for all genes to cos or rv cells; saves parameter estimates and goodness-of-fit in a tab-separated spreadsheet
 - runtime: about 15 seconds
-- output: tab-separated spreadsheet
 - Example: `python curvefit2.py cos > curvefit2_cos.txt`
 - columns in output file:
   -  orf ID
@@ -67,4 +67,7 @@ curves to identify periodic genes.
   -  3 parameters for quadratic: A, B, C (`Ax^2+Bx+C`)
   -  RSS_quad - residual sum-of-squares with respect to quadratic fit
   -  RSS_sin/RSS_quad - if this ratio is >0.45, genes are considered periodic
+- note: this script only generates a spreadsheet, not images, but if you plot the two fits, they look like this...
+
+![](Rv0001_cos.png)
 
