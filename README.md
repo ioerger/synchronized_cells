@@ -12,7 +12,7 @@ curves to identify periodic genes.
 - dependencies: scipy and statsmodels (python packages)
 - usage: `python curvefit2.py <normalized_expression_file> [cos|rv]` 
 - input files: 
-  - normalized_expression_file ![total_deseq_norm_skip0hr.txt](total_deseq_norm_skip0hr.txt) - (normalized expression values of each gene at each timepoint in each replicate of each strain) 
+  - normalized_expression_file (![total_deseq_norm_skip0hr.txt](total_deseq_norm_skip0hr.txt)) - normalized expression values of each gene at each timepoint in each replicate of each strain)
   - corr.txt (contains correlation coefficients between cos and rv for all genes) (script automatically reads this)
   - H37Rv3.prot_table (annotation, info on ORFs) (script automatically reads this)
   - H37Rv.COG_roles.dat (functional categories for each genes) (script automatically reads this)
