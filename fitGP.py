@@ -84,5 +84,5 @@ plt.figure(figsize=(14, 8))
 plot_gp(Xnew, mean, Cov, yaxis, training_points=(X,Y))
 plt.title(title,fontsize=titlesize)
 plt.savefig(fname)
-plt.show()
+#plt.show()
 

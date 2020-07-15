@@ -41,7 +41,7 @@ cc_fha = 0.9577
 (see temp.png)
 ```
 
-
+![](sim4.png)
 
 Curve-fitting of expression patterns with sinusoidal and quadratic 
 curves to identify periodic genes.
