@@ -84,3 +84,4 @@ Clustering of Expression Patterns
   - K: number of clusters (integer)
 - example: `Rscript cluster.R curvefit2_cos_means.txt curvefit2_cos_clust.txt curvefit2_cos_clusters.pdf 8`
 
+![](cluster1.png)
