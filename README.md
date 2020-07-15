@@ -11,7 +11,11 @@ curves to identify periodic genes.
 - script: curvefit2.py
 - dependencies: scipy and statsmodels (python packages)
 - usage: `python curvefit2.py [cos|rv]` 
-- input file: corr.txt (contains correlation coefficients between cos and rv for all genes; script automatically reads this)
+- input files: (script automatically reads these)
+  - total_deseq_norm_skip0hr.txt (normalized expression values of each gene at each timepoint in each replicate of each strain)
+  - corr.txt (contains correlation coefficients between cos and rv for all genes)
+  - H37Rv3.prot_table (annotation - info on ORFs)
+  - H37Rv.COG_roles.dat (functional categories for each genes)
 - output: fits curves for all genes to cos or rv cells; saves parameter estimates and goodness-of-fit in a tab-separated spreadsheet
 - runtime: about 15 seconds
 - Example: `python curvefit2.py cos > curvefit2_cos.txt`
@@ -45,8 +49,7 @@ Clustering of Expression Profiles
   - K: number of clusters (integer)
 - example: 
 <BR>`Rscript cluster.R curvefit2_cos_means.txt curvefit2_cos_clust.txt curvefit2_cos_clusters.pdf 8`
-<BR>output files:
-<BR>[curvefit2_cos_clust.txt](curvefit2_cos_clust.txt), [curvefit2_cos_clusters.pdf](curvefit2_cos_clusters.pdf)
+<BR>output files: [curvefit2_cos_clust.txt](curvefit2_cos_clust.txt), [curvefit2_cos_clusters.pdf](curvefit2_cos_clusters.pdf)
 
 ![](cluster1.png)
 

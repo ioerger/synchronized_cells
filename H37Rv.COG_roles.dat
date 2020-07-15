@@ -1,0 +1,3029 @@
+Rv0001	dnaA	L	Replication, recombination and repair 
+Rv0002	dnaN	L	Replication, recombination and repair 
+Rv0003	recF	L	Replication, recombination and repair 
+Rv0004	-	R	General function prediction only 
+Rv0005	gyrB	L	Replication, recombination and repair 
+Rv0006	gyrA	L	Replication, recombination and repair 
+Rv0009	ppiA	O	Posttranslational modification, protein turnover, chaperones 
+Rv0012	-	S	Function unknown 
+Rv0013	trpG	H	Coenzyme transport and metabolism 
+Rv0014c	pknB	L	Replication, recombination and repair 
+Rv0014c	pknB	S	Function unknown 
+Rv0015c	pknA	L	Replication, recombination and repair 
+Rv0016c	pbpA	M	Cell wall/membrane/envelope biogenesis 
+Rv0017c	rodA	D	Cell cycle control, cell division, chromosome partitioning 
+Rv0018c	ppp	T	Signal transduction mechanisms 
+Rv0019c	-	T	Signal transduction mechanisms 
+Rv0020c	TB39.8	T	Signal transduction mechanisms 
+Rv0021c	-	R	General function prediction only 
+Rv0023	-	K	Transcription 
+Rv0024	-	M	Cell wall/membrane/envelope biogenesis 
+Rv0032	bioF2	H	Coenzyme transport and metabolism 
+Rv0033	acpA	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0034	-	R	General function prediction only 
+Rv0035	fadD34	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0037c	-	R	General function prediction only 
+Rv0038	-	K	Transcription 
+Rv0041	leuS	J	Translation, ribosomal structure and biogenesis 
+Rv0042c	-	K	Transcription 
+Rv0043c	-	K	Transcription 
+Rv0044c	-	C	Energy production and conversion 
+Rv0045c	-	R	General function prediction only 
+Rv0046c	ino1	I	Lipid transport and metabolism 
+Rv0047c	-	K	Transcription 
+Rv0050	ponA1	M	Cell wall/membrane/envelope biogenesis 
+Rv0051	-	S	Function unknown 
+Rv0052	-	R	General function prediction only 
+Rv0053	rpsF	J	Translation, ribosomal structure and biogenesis 
+Rv0054	ssb	L	Replication, recombination and repair 
+Rv0055	rpsR	J	Translation, ribosomal structure and biogenesis 
+Rv0056	rplI	J	Translation, ribosomal structure and biogenesis 
+Rv0058	dnaB	L	Replication, recombination and repair 
+Rv0058	dnaB	L	Replication, recombination and repair 
+Rv0060	-	R	General function prediction only 
+Rv0062	celA1	G	Carbohydrate transport and metabolism 
+Rv0063	-	C	Energy production and conversion 
+Rv0064	-	S	Function unknown 
+Rv0065	-	R	General function prediction only 
+Rv0066c	icd2	C	Energy production and conversion 
+Rv0067c	-	K	Transcription 
+Rv0068	-	R	General function prediction only 
+Rv0069c	sdaA	E	Amino acid transport and metabolism 
+Rv0070c	glyA2	E	Amino acid transport and metabolism 
+Rv0071	-	L	Replication, recombination and repair 
+Rv0072	-	V	Defense mechanisms 
+Rv0073	-	V	Defense mechanisms 
+Rv0074	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0075	-	E	Amino acid transport and metabolism 
+Rv0077c	-	R	General function prediction only 
+Rv0078	-	K	Transcription 
+Rv0079	-	J	Translation, ribosomal structure and biogenesis 
+Rv0081	-	K	Transcription 
+Rv0082	-	C	Energy production and conversion 
+Rv0083	-	P	Inorganic ion transport and metabolism 
+Rv0084	hycD	C	Energy production and conversion 
+Rv0085	hycP	C	Energy production and conversion 
+Rv0086	hycQ	P	Inorganic ion transport and metabolism 
+Rv0087	hycE	C	Energy production and conversion 
+Rv0087	hycE	C	Energy production and conversion 
+Rv0088	-	J	Translation, ribosomal structure and biogenesis 
+Rv0089	-	R	General function prediction only 
+Rv0090	-	P	Inorganic ion transport and metabolism 
+Rv0090	-	S	Function unknown 
+Rv0091	mtn	F	Nucleotide transport and metabolism 
+Rv0092	ctpA	P	Inorganic ion transport and metabolism 
+Rv0093c	-	S	Function unknown 
+Rv0097	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0099	fadD10	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0100	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0101	nrp	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0101	nrp	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0102	-	S	Function unknown 
+Rv0103c	ctpB	P	Inorganic ion transport and metabolism 
+Rv0104	-	T	Signal transduction mechanisms 
+Rv0105c	rpmB	J	Translation, ribosomal structure and biogenesis 
+Rv0106	-	R	General function prediction only 
+Rv0107c	ctpI	P	Inorganic ion transport and metabolism 
+Rv0110	-	R	General function prediction only 
+Rv0111	-	I	Lipid transport and metabolism 
+Rv0112	gca	G	Carbohydrate transport and metabolism 
+Rv0113	gmhA	G	Carbohydrate transport and metabolism 
+Rv0114	gmhB	E	Amino acid transport and metabolism 
+Rv0115	hddA	R	General function prediction only 
+Rv0116c	-	S	Function unknown 
+Rv0117	oxyS	K	Transcription 
+Rv0118c	oxcA	H	Coenzyme transport and metabolism 
+Rv0119	fadD7	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0120c	fusA2	J	Translation, ribosomal structure and biogenesis 
+Rv0121c	-	R	General function prediction only 
+Rv0125	pepA	O	Posttranslational modification, protein turnover, chaperones 
+Rv0126	treS	G	Carbohydrate transport and metabolism 
+Rv0127	-	G	Carbohydrate transport and metabolism 
+Rv0128	-	S	Function unknown 
+Rv0129c	fbpC	R	General function prediction only 
+Rv0130	-	I	Lipid transport and metabolism 
+Rv0131c	fadE1	I	Lipid transport and metabolism 
+Rv0132c	fgd2	C	Energy production and conversion 
+Rv0133	-	R	General function prediction only 
+Rv0134	ephF	R	General function prediction only 
+Rv0135c	-	K	Transcription 
+Rv0136	cyp138	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0137c	msrA	O	Posttranslational modification, protein turnover, chaperones 
+Rv0139	-	G	Carbohydrate transport and metabolism 
+Rv0140	-	S	Function unknown 
+Rv0141c	-	R	General function prediction only 
+Rv0142	-	L	Replication, recombination and repair 
+Rv0143c	-	P	Inorganic ion transport and metabolism 
+Rv0144	-	K	Transcription 
+Rv0145	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0146	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0147	-	C	Energy production and conversion 
+Rv0148	-	R	General function prediction only 
+Rv0149	-	R	General function prediction only 
+Rv0153c	ptbB	T	Signal transduction mechanisms 
+Rv0154c	fadE2	I	Lipid transport and metabolism 
+Rv0155	pntAa	C	Energy production and conversion 
+Rv0156	pntAb	C	Energy production and conversion 
+Rv0157	pntB	C	Energy production and conversion 
+Rv0158	-	K	Transcription 
+Rv0161	-	C	Energy production and conversion 
+Rv0162c	adhE1	C	Energy production and conversion 
+Rv0163	-	R	General function prediction only 
+Rv0164	TB18.5	I	Lipid transport and metabolism 
+Rv0165c	-	K	Transcription 
+Rv0166	fadD5	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0167	yrbE1A	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0168	yrbE1B	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0169	mce1A	T	Signal transduction mechanisms 
+Rv0169	mce1A	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0170	mce1B	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0171	mce1C	T	Signal transduction mechanisms 
+Rv0171	mce1C	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0172	mce1D	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0173	lprK	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0174	mce1F	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0176	-	S	Function unknown 
+Rv0180c	-	S	Function unknown 
+Rv0181c	-	R	General function prediction only 
+Rv0182c	sigG	K	Transcription 
+Rv0183	-	I	Lipid transport and metabolism 
+Rv0186	bglS	G	Carbohydrate transport and metabolism 
+Rv0187	-	R	General function prediction only 
+Rv0189c	ilvD	G	Carbohydrate transport and metabolism 
+Rv0190	-	S	Function unknown 
+Rv0191	-	G	Carbohydrate transport and metabolism 
+Rv0192	-	S	Function unknown 
+Rv0194	-	V	Defense mechanisms 
+Rv0195	-	K	Transcription 
+Rv0196	-	K	Transcription 
+Rv0197	-	C	Energy production and conversion 
+Rv0198c	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv0201c	-	K	Transcription 
+Rv0202c	mmpL11	R	General function prediction only 
+Rv0204c	-	S	Function unknown 
+Rv0205	-	R	General function prediction only 
+Rv0206c	mmpL3	R	General function prediction only 
+Rv0207c	-	S	Function unknown 
+Rv0208c	trmB	R	General function prediction only 
+Rv0211	pckA	C	Energy production and conversion 
+Rv0212c	nadR	H	Coenzyme transport and metabolism 
+Rv0212c	nadR	H	Coenzyme transport and metabolism 
+Rv0213c	-	C	Energy production and conversion 
+Rv0214	fadD4	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0215c	fadE3	I	Lipid transport and metabolism 
+Rv0216	-	I	Lipid transport and metabolism 
+Rv0217c	lipW	I	Lipid transport and metabolism 
+Rv0218	-	R	General function prediction only 
+Rv0220	lipC	I	Lipid transport and metabolism 
+Rv0221	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0222	echA1	I	Lipid transport and metabolism 
+Rv0223c	-	C	Energy production and conversion 
+Rv0224c	-	R	General function prediction only 
+Rv0225	-	M	Cell wall/membrane/envelope biogenesis 
+Rv0228	-	I	Lipid transport and metabolism 
+Rv0229c	-	R	General function prediction only 
+Rv0230c	php	R	General function prediction only 
+Rv0231	fadE4	I	Lipid transport and metabolism 
+Rv0232	-	K	Transcription 
+Rv0233	nrdB	F	Nucleotide transport and metabolism 
+Rv0234c	gabD1	C	Energy production and conversion 
+Rv0237	lpqI	G	Carbohydrate transport and metabolism 
+Rv0238	-	K	Transcription 
+Rv0240	-	R	General function prediction only 
+Rv0241c	-	I	Lipid transport and metabolism 
+Rv0242c	fabG	R	General function prediction only 
+Rv0243	fadA2	I	Lipid transport and metabolism 
+Rv0244c	fadE5	I	Lipid transport and metabolism 
+Rv0245	-	R	General function prediction only 
+Rv0247c	-	C	Energy production and conversion 
+Rv0248c	sdhA	C	Energy production and conversion 
+Rv0251c	hsp	O	Posttranslational modification, protein turnover, chaperones 
+Rv0252	nirB	C	Energy production and conversion 
+Rv0253	nirD	R	General function prediction only 
+Rv0254c	cobU	H	Coenzyme transport and metabolism 
+Rv0255c	cobQ1	H	Coenzyme transport and metabolism 
+Rv0259c	-	S	Function unknown 
+Rv0260c	-	K	Transcription 
+Rv0260c	-	H	Coenzyme transport and metabolism 
+Rv0261c	narK3	P	Inorganic ion transport and metabolism 
+Rv0262c	aac	R	General function prediction only 
+Rv0263c	-	E	Amino acid transport and metabolism 
+Rv0264c	-	E	Amino acid transport and metabolism 
+Rv0265c	-	P	Inorganic ion transport and metabolism 
+Rv0266c	oplA	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0266c	oplA	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0267	narU	P	Inorganic ion transport and metabolism 
+Rv0268c	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv0269c	-	L	Replication, recombination and repair 
+Rv0270	fadD2	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0271c	fadE6	I	Lipid transport and metabolism 
+Rv0273c	-	K	Transcription 
+Rv0274	-	E	Amino acid transport and metabolism 
+Rv0275c	-	K	Transcription 
+Rv0276	-	S	Function unknown 
+Rv0281	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0282	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv0284	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv0288	esxH	S	Function unknown 
+Rv0291	mycP3	O	Posttranslational modification, protein turnover, chaperones 
+Rv0293c	-	R	General function prediction only 
+Rv0294	tam	R	General function prediction only 
+Rv0295c	-	S	Function unknown 
+Rv0296c	-	P	Inorganic ion transport and metabolism 
+Rv0299	-	J	Translation, ribosomal structure and biogenesis 
+Rv0301	-	R	General function prediction only 
+Rv0302	-	K	Transcription 
+Rv0303	-	R	General function prediction only 
+Rv0304c	PPE5	S	Function unknown 
+Rv0306	-	C	Energy production and conversion 
+Rv0308	-	I	Lipid transport and metabolism 
+Rv0309	-	S	Function unknown 
+Rv0312	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv0315	-	G	Carbohydrate transport and metabolism 
+Rv0316	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0317c	glpQ2	C	Energy production and conversion 
+Rv0318c	-	P	Inorganic ion transport and metabolism 
+Rv0319	pcp	O	Posttranslational modification, protein turnover, chaperones 
+Rv0321	dcd	F	Nucleotide transport and metabolism 
+Rv0322	udgA	M	Cell wall/membrane/envelope biogenesis 
+Rv0323c	-	S	Function unknown 
+Rv0324	-	P	Inorganic ion transport and metabolism 
+Rv0324	-	K	Transcription 
+Rv0325	-	R	General function prediction only 
+Rv0326	-	R	General function prediction only 
+Rv0327c	cyp135A1	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0328	-	K	Transcription 
+Rv0329c	-	R	General function prediction only 
+Rv0330c	-	K	Transcription 
+Rv0331	-	R	General function prediction only 
+Rv0334	rmlA	M	Cell wall/membrane/envelope biogenesis 
+Rv0337c	aspC	E	Amino acid transport and metabolism 
+Rv0338c	-	C	Energy production and conversion 
+Rv0339c	-	K	Transcription 
+Rv0339c	-	K	Transcription 
+Rv0342	iniA	R	General function prediction only 
+Rv0343	iniC	R	General function prediction only 
+Rv0345	-	R	General function prediction only 
+Rv0346c	ansP2	E	Amino acid transport and metabolism 
+Rv0348	-	K	Transcription 
+Rv0350	dnaK	O	Posttranslational modification, protein turnover, chaperones 
+Rv0351	grpE	O	Posttranslational modification, protein turnover, chaperones 
+Rv0352	dnaJ1	O	Posttranslational modification, protein turnover, chaperones 
+Rv0353	hspR	K	Transcription 
+Rv0355c	PPE8	S	Function unknown 
+Rv0356c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0357c	purA	F	Nucleotide transport and metabolism 
+Rv0359	-	R	General function prediction only 
+Rv0362	mgtE	P	Inorganic ion transport and metabolism 
+Rv0363c	fba	G	Carbohydrate transport and metabolism 
+Rv0364	-	S	Function unknown 
+Rv0365c	-	G	Carbohydrate transport and metabolism 
+Rv0366c	-	S	Function unknown 
+Rv0368c	-	R	General function prediction only 
+Rv0369c	-	S	Function unknown 
+Rv0370c	-	R	General function prediction only 
+Rv0371c	-	R	General function prediction only 
+Rv0372c	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv0373c	-	C	Energy production and conversion 
+Rv0374c	-	C	Energy production and conversion 
+Rv0375c	-	C	Energy production and conversion 
+Rv0376c	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv0377	-	K	Transcription 
+Rv0379	secE2	S	Function unknown 
+Rv0380c	-	J	Translation, ribosomal structure and biogenesis 
+Rv0382c	pyrE	F	Nucleotide transport and metabolism 
+Rv0384c	clpB	O	Posttranslational modification, protein turnover, chaperones 
+Rv0385	-	C	Energy production and conversion 
+Rv0385	-	C	Energy production and conversion 
+Rv0386	-	T	Signal transduction mechanisms 
+Rv0386	-	K	Transcription 
+Rv0386	-	R	General function prediction only 
+Rv0389	purT	F	Nucleotide transport and metabolism 
+Rv0390	-	P	Inorganic ion transport and metabolism 
+Rv0391	metZ	E	Amino acid transport and metabolism 
+Rv0392c	ndhA	C	Energy production and conversion 
+Rv0399c	lpqK	V	Defense mechanisms 
+Rv0400c	fadE7	I	Lipid transport and metabolism 
+Rv0402c	mmpL1	R	General function prediction only 
+Rv0404	fadD30	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0405	pks6	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0406c	-	R	General function prediction only 
+Rv0407	fgd1	C	Energy production and conversion 
+Rv0408	pta	C	Energy production and conversion 
+Rv0408	pta	R	General function prediction only 
+Rv0409	ackA	C	Energy production and conversion 
+Rv0410c	pknG	L	Replication, recombination and repair 
+Rv0411c	glnH	T	Signal transduction mechanisms 
+Rv0413	mutT3	R	General function prediction only 
+Rv0414c	thiE	H	Coenzyme transport and metabolism 
+Rv0415	thiO	E	Amino acid transport and metabolism 
+Rv0416	thiS	H	Coenzyme transport and metabolism 
+Rv0417	thiG	H	Coenzyme transport and metabolism 
+Rv0418	lpqL	R	General function prediction only 
+Rv0419	lpqM	R	General function prediction only 
+Rv0421c	-	R	General function prediction only 
+Rv0422c	thiD	H	Coenzyme transport and metabolism 
+Rv0423c	thiC	H	Coenzyme transport and metabolism 
+Rv0425c	ctpH	P	Inorganic ion transport and metabolism 
+Rv0427c	xthA	L	Replication, recombination and repair 
+Rv0428c	-	R	General function prediction only 
+Rv0429c	def	J	Translation, ribosomal structure and biogenesis 
+Rv0432	sodC	P	Inorganic ion transport and metabolism 
+Rv0433	-	S	Function unknown 
+Rv0434	-	R	General function prediction only 
+Rv0435c	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv0436c	pssA	I	Lipid transport and metabolism 
+Rv0437c	psd	I	Lipid transport and metabolism 
+Rv0438c	moeA2	H	Coenzyme transport and metabolism 
+Rv0439c	-	R	General function prediction only 
+Rv0440	groEL	O	Posttranslational modification, protein turnover, chaperones 
+Rv0444c	-	S	Function unknown 
+Rv0445c	sigK	K	Transcription 
+Rv0446c	-	S	Function unknown 
+Rv0447c	ufaA1	M	Cell wall/membrane/envelope biogenesis 
+Rv0448c	-	S	Function unknown 
+Rv0449c	-	R	General function prediction only 
+Rv0450c	mmpL4	R	General function prediction only 
+Rv0452	-	K	Transcription 
+Rv0454	-	J	Translation, ribosomal structure and biogenesis 
+Rv0456c	echA2	I	Lipid transport and metabolism 
+Rv0456A	-	T	Signal transduction mechanisms 
+Rv0457c	-	E	Amino acid transport and metabolism 
+Rv0458	-	C	Energy production and conversion 
+Rv0459	-	S	Function unknown 
+Rv0462	lpd	C	Energy production and conversion 
+Rv0464c	-	S	Function unknown 
+Rv0465c	-	K	Transcription 
+Rv0465c	-	R	General function prediction only 
+Rv0466	-	I	Lipid transport and metabolism 
+Rv0467	icl	C	Energy production and conversion 
+Rv0468	fadB2	I	Lipid transport and metabolism 
+Rv0469	umaA	M	Cell wall/membrane/envelope biogenesis 
+Rv0470c	pcaA	M	Cell wall/membrane/envelope biogenesis 
+Rv0470A	-	H	Coenzyme transport and metabolism 
+Rv0472c	-	K	Transcription 
+Rv0473	-	S	Function unknown 
+Rv0474	-	K	Transcription 
+Rv0478	deoC	F	Nucleotide transport and metabolism 
+Rv0480c	-	R	General function prediction only 
+Rv0482	murB	M	Cell wall/membrane/envelope biogenesis 
+Rv0483	lprQ	S	Function unknown 
+Rv0484c	-	R	General function prediction only 
+Rv0485	-	G	Carbohydrate transport and metabolism 
+Rv0486	-	M	Cell wall/membrane/envelope biogenesis 
+Rv0488	-	R	General function prediction only 
+Rv0489	gpm1	G	Carbohydrate transport and metabolism 
+Rv0490	senX3	T	Signal transduction mechanisms 
+Rv0491	regX3	K	Transcription 
+Rv0492c	-	E	Amino acid transport and metabolism 
+Rv0494	-	K	Transcription 
+Rv0496	-	P	Inorganic ion transport and metabolism 
+Rv0498	-	G	Carbohydrate transport and metabolism 
+Rv0499	-	C	Energy production and conversion 
+Rv0500	proC	E	Amino acid transport and metabolism 
+Rv0500A	-	P	Inorganic ion transport and metabolism 
+Rv0501	galE2	G	Carbohydrate transport and metabolism 
+Rv0502	-	I	Lipid transport and metabolism 
+Rv0503c	cmaA2	M	Cell wall/membrane/envelope biogenesis 
+Rv0505c	serB1	E	Amino acid transport and metabolism 
+Rv0507	mmpL2	R	General function prediction only 
+Rv0508	-	C	Energy production and conversion 
+Rv0509	hemA	H	Coenzyme transport and metabolism 
+Rv0510	hemC	H	Coenzyme transport and metabolism 
+Rv0511	hemD	H	Coenzyme transport and metabolism 
+Rv0511	hemD	H	Coenzyme transport and metabolism 
+Rv0512	hemB	H	Coenzyme transport and metabolism 
+Rv0516c	-	T	Signal transduction mechanisms 
+Rv0517	-	I	Lipid transport and metabolism 
+Rv0518	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv0519c	-	R	General function prediction only 
+Rv0520	-	R	General function prediction only 
+Rv0522	gabP	E	Amino acid transport and metabolism 
+Rv0524	hemL	H	Coenzyme transport and metabolism 
+Rv0525	-	G	Carbohydrate transport and metabolism 
+Rv0526	-	C	Energy production and conversion 
+Rv0527	ccdA	O	Posttranslational modification, protein turnover, chaperones 
+Rv0528	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv0529	ccsA	O	Posttranslational modification, protein turnover, chaperones 
+Rv0530	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv0533c	fabH	I	Lipid transport and metabolism 
+Rv0534c	menA	H	Coenzyme transport and metabolism 
+Rv0535	pnp	F	Nucleotide transport and metabolism 
+Rv0536	galE3	G	Carbohydrate transport and metabolism 
+Rv0539	-	M	Cell wall/membrane/envelope biogenesis 
+Rv0540	-	S	Function unknown 
+Rv0542c	menE	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0545c	pitA	P	Inorganic ion transport and metabolism 
+Rv0546c	-	E	Amino acid transport and metabolism 
+Rv0547c	-	R	General function prediction only 
+Rv0548c	menB	H	Coenzyme transport and metabolism 
+Rv0549c	-	R	General function prediction only 
+Rv0550c	-	R	General function prediction only 
+Rv0551c	fadD8	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0552	-	R	General function prediction only 
+Rv0553	menC	R	General function prediction only 
+Rv0554	bpoC	R	General function prediction only 
+Rv0555	menD	H	Coenzyme transport and metabolism 
+Rv0557	pimB	M	Cell wall/membrane/envelope biogenesis 
+Rv0558	ubiE	H	Coenzyme transport and metabolism 
+Rv0560c	-	R	General function prediction only 
+Rv0561c	-	C	Energy production and conversion 
+Rv0562	grcC1	H	Coenzyme transport and metabolism 
+Rv0563	htpX	O	Posttranslational modification, protein turnover, chaperones 
+Rv0564c	gpsA	C	Energy production and conversion 
+Rv0565c	-	P	Inorganic ion transport and metabolism 
+Rv0566c	-	S	Function unknown 
+Rv0567	-	R	General function prediction only 
+Rv0568	cyp135B1	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0570	nrdZ	F	Nucleotide transport and metabolism 
+Rv0571c	-	R	General function prediction only 
+Rv0571c	-	R	General function prediction only 
+Rv0571c	-	I	Lipid transport and metabolism 
+Rv0573c	-	H	Coenzyme transport and metabolism 
+Rv0574c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv0575c	-	C	Energy production and conversion 
+Rv0576	-	K	Transcription 
+Rv0576	-	S	Function unknown 
+Rv0577	TB27.3	R	General function prediction only 
+Rv0579	-	S	Function unknown 
+Rv0582	-	R	General function prediction only 
+Rv0584	-	G	Carbohydrate transport and metabolism 
+Rv0585c	-	S	Function unknown 
+Rv0585c	-	T	Signal transduction mechanisms 
+Rv0586	-	K	Transcription 
+Rv0587	yrbE2A	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0588	yrbE2B	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0589	mce2A	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0590	mce2B	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0591	mce2C	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0592	mce2D	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0593	lprL	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0594	mce2F	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0595c	-	R	General function prediction only 
+Rv0596c	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv0597c	-	R	General function prediction only 
+Rv0599c	-	K	Transcription 
+Rv0600c	-	T	Signal transduction mechanisms 
+Rv0601c	-	T	Signal transduction mechanisms 
+Rv0602c	tcrA	K	Transcription 
+Rv0605	-	L	Replication, recombination and repair 
+Rv0606	-	L	Replication, recombination and repair 
+Rv0608	-	S	Function unknown 
+Rv0609	-	S	Function unknown 
+Rv0613c	-	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv0617	-	R	General function prediction only 
+Rv0618	galTa	C	Energy production and conversion 
+Rv0619	galTb	C	Energy production and conversion 
+Rv0620	galK	G	Carbohydrate transport and metabolism 
+Rv0621	-	G	Carbohydrate transport and metabolism 
+Rv0623	-	S	Function unknown 
+Rv0624	-	S	Function unknown 
+Rv0625c	-	S	Function unknown 
+Rv0626	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv0627	-	R	General function prediction only 
+Rv0628c	-	S	Function unknown 
+Rv0629c	recD	L	Replication, recombination and repair 
+Rv0630c	recB	L	Replication, recombination and repair 
+Rv0630c	recB	L	Replication, recombination and repair 
+Rv0631c	recC	L	Replication, recombination and repair 
+Rv0632c	echA3	I	Lipid transport and metabolism 
+Rv0634c	-	R	General function prediction only 
+Rv0634B	rpmG	J	Translation, ribosomal structure and biogenesis 
+Rv0636	-	I	Lipid transport and metabolism 
+Rv0638	secE	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv0639	nusG	K	Transcription 
+Rv0640	rplK	J	Translation, ribosomal structure and biogenesis 
+Rv0641	rplA	J	Translation, ribosomal structure and biogenesis 
+Rv0642c	mmaA4	M	Cell wall/membrane/envelope biogenesis 
+Rv0643c	mmaA3	M	Cell wall/membrane/envelope biogenesis 
+Rv0644c	mmaA2	M	Cell wall/membrane/envelope biogenesis 
+Rv0645c	mmaA1	M	Cell wall/membrane/envelope biogenesis 
+Rv0646c	lipG	R	General function prediction only 
+Rv0647c	-	R	General function prediction only 
+Rv0648	-	G	Carbohydrate transport and metabolism 
+Rv0650	-	G	Carbohydrate transport and metabolism 
+Rv0651	rplJ	J	Translation, ribosomal structure and biogenesis 
+Rv0652	rplL	J	Translation, ribosomal structure and biogenesis 
+Rv0653c	-	K	Transcription 
+Rv0654	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0655	mkl	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0657c	-	K	Transcription 
+Rv0658c	-	R	General function prediction only 
+Rv0659c	-	T	Signal transduction mechanisms 
+Rv0663	atsD	P	Inorganic ion transport and metabolism 
+Rv0667	rpoB	K	Transcription 
+Rv0668	rpoC	K	Transcription 
+Rv0670	end	L	Replication, recombination and repair 
+Rv0671	lpqP	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0672	fadE8	I	Lipid transport and metabolism 
+Rv0673	echA4	I	Lipid transport and metabolism 
+Rv0674	-	K	Transcription 
+Rv0675	echA5	I	Lipid transport and metabolism 
+Rv0676c	mmpL5	R	General function prediction only 
+Rv0677c	mmpS5	O	Posttranslational modification, protein turnover, chaperones 
+Rv0681	-	K	Transcription 
+Rv0682	rpsL	J	Translation, ribosomal structure and biogenesis 
+Rv0683	rpsG	J	Translation, ribosomal structure and biogenesis 
+Rv0684	fusA1	J	Translation, ribosomal structure and biogenesis 
+Rv0685	tuf	J	Translation, ribosomal structure and biogenesis 
+Rv0687	fabG	R	General function prediction only 
+Rv0688	-	R	General function prediction only 
+Rv0690c	-	S	Function unknown 
+Rv0691c	-	K	Transcription 
+Rv0693	pqqE	R	General function prediction only 
+Rv0694	lldD1	C	Energy production and conversion 
+Rv0695	-	R	General function prediction only 
+Rv0696	-	M	Cell wall/membrane/envelope biogenesis 
+Rv0697	-	E	Amino acid transport and metabolism 
+Rv0700	rpsJ	J	Translation, ribosomal structure and biogenesis 
+Rv0701	rplC	J	Translation, ribosomal structure and biogenesis 
+Rv0702	rplD	J	Translation, ribosomal structure and biogenesis 
+Rv0703	rplW	J	Translation, ribosomal structure and biogenesis 
+Rv0704	rplB	J	Translation, ribosomal structure and biogenesis 
+Rv0705	rpsS	J	Translation, ribosomal structure and biogenesis 
+Rv0706	rplV	J	Translation, ribosomal structure and biogenesis 
+Rv0707	rpsC	J	Translation, ribosomal structure and biogenesis 
+Rv0708	rplP	J	Translation, ribosomal structure and biogenesis 
+Rv0709	rpmC	J	Translation, ribosomal structure and biogenesis 
+Rv0710	rpsQ	J	Translation, ribosomal structure and biogenesis 
+Rv0711	atsA	P	Inorganic ion transport and metabolism 
+Rv0712	-	S	Function unknown 
+Rv0714	rplN	J	Translation, ribosomal structure and biogenesis 
+Rv0715	rplX	J	Translation, ribosomal structure and biogenesis 
+Rv0716	rplE	J	Translation, ribosomal structure and biogenesis 
+Rv0717	rpsN	J	Translation, ribosomal structure and biogenesis 
+Rv0718	rpsH	J	Translation, ribosomal structure and biogenesis 
+Rv0719	rplF	J	Translation, ribosomal structure and biogenesis 
+Rv0720	rplR	J	Translation, ribosomal structure and biogenesis 
+Rv0721	rpsE	J	Translation, ribosomal structure and biogenesis 
+Rv0722	rpmD	J	Translation, ribosomal structure and biogenesis 
+Rv0723	rplO	J	Translation, ribosomal structure and biogenesis 
+Rv0724	sppA	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv0725c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0726c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0727c	fucA	G	Carbohydrate transport and metabolism 
+Rv0728c	serA2	E	Amino acid transport and metabolism 
+Rv0729	xylB	G	Carbohydrate transport and metabolism 
+Rv0731c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0732	secY	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv0733	adk	F	Nucleotide transport and metabolism 
+Rv0734	mapA	J	Translation, ribosomal structure and biogenesis 
+Rv0735	sigL	K	Transcription 
+Rv0736	-	K	Transcription 
+Rv0737	-	K	Transcription 
+Rv0741	-	L	Replication, recombination and repair 
+Rv0751c	mmsB	I	Lipid transport and metabolism 
+Rv0752c	fadE9	I	Lipid transport and metabolism 
+Rv0753c	mmsA	C	Energy production and conversion 
+Rv0754	PE_PGRS11	G	Carbohydrate transport and metabolism 
+Rv0755A	-	L	Replication, recombination and repair 
+Rv0756c	-	H	Coenzyme transport and metabolism 
+Rv0757	phoP	K	Transcription 
+Rv0758	phoR	T	Signal transduction mechanisms 
+Rv0759c	-	R	General function prediction only 
+Rv0761c	adhB	C	Energy production and conversion 
+Rv0763c	-	C	Energy production and conversion 
+Rv0764c	cyp51	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0765c	-	R	General function prediction only 
+Rv0766c	cyp123	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0768	aldA	C	Energy production and conversion 
+Rv0769	-	R	General function prediction only 
+Rv0770	-	I	Lipid transport and metabolism 
+Rv0771	-	S	Function unknown 
+Rv0772	purD	F	Nucleotide transport and metabolism 
+Rv0773c	ggtA	E	Amino acid transport and metabolism 
+Rv0774c	-	R	General function prediction only 
+Rv0775	-	S	Function unknown 
+Rv0776c	-	S	Function unknown 
+Rv0777	purB	F	Nucleotide transport and metabolism 
+Rv0778	cyp126	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0779c	-	V	Defense mechanisms 
+Rv0780	hemH	F	Nucleotide transport and metabolism 
+Rv0781	ptrBa	E	Amino acid transport and metabolism 
+Rv0782	ptrBb	E	Amino acid transport and metabolism 
+Rv0783c	emrB	R	General function prediction only 
+Rv0784	-	R	General function prediction only 
+Rv0785	-	R	General function prediction only 
+Rv0786c	-	R	General function prediction only 
+Rv0787	-	F	Nucleotide transport and metabolism 
+Rv0787A	-	F	Nucleotide transport and metabolism 
+Rv0788	purQ	F	Nucleotide transport and metabolism 
+Rv0790c	-	E	Amino acid transport and metabolism 
+Rv0791c	-	C	Energy production and conversion 
+Rv0792c	-	K	Transcription 
+Rv0793	-	S	Function unknown 
+Rv0794c	-	C	Energy production and conversion 
+Rv0795	-	L	Replication, recombination and repair 
+Rv0796	-	L	Replication, recombination and repair 
+Rv0797	-	L	Replication, recombination and repair 
+Rv0798c	cfp29	S	Function unknown 
+Rv0799c	-	P	Inorganic ion transport and metabolism 
+Rv0800	pepC	E	Amino acid transport and metabolism 
+Rv0802c	-	J	Translation, ribosomal structure and biogenesis 
+Rv0803	purL	F	Nucleotide transport and metabolism 
+Rv0804	-	R	General function prediction only 
+Rv0805	-	R	General function prediction only 
+Rv0808	purF	F	Nucleotide transport and metabolism 
+Rv0809	purM	F	Nucleotide transport and metabolism 
+Rv0811c	-	R	General function prediction only 
+Rv0812	-	H	Coenzyme transport and metabolism 
+Rv0815c	cysA2	P	Inorganic ion transport and metabolism 
+Rv0816c	thiX	C	Energy production and conversion 
+Rv0818	-	K	Transcription 
+Rv0819	-	R	General function prediction only 
+Rv0820	phoT	P	Inorganic ion transport and metabolism 
+Rv0821c	phoY2	P	Inorganic ion transport and metabolism 
+Rv0822c	-	K	Transcription 
+Rv0823c	-	J	Translation, ribosomal structure and biogenesis 
+Rv0825c	-	K	Transcription 
+Rv0826	-	S	Function unknown 
+Rv0827c	-	K	Transcription 
+Rv0828c	-	J	Translation, ribosomal structure and biogenesis 
+Rv0829	-	L	Replication, recombination and repair 
+Rv0830	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0836c	-	S	Function unknown 
+Rv0837c	-	S	Function unknown 
+Rv0838	lpqR	M	Cell wall/membrane/envelope biogenesis 
+Rv0839	-	R	General function prediction only 
+Rv0840c	pip	R	General function prediction only 
+Rv0841	-	R	General function prediction only 
+Rv0843	-	C	Energy production and conversion 
+Rv0844c	narL	K	Transcription 
+Rv0845	-	T	Signal transduction mechanisms 
+Rv0846c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0848	cysK2	E	Amino acid transport and metabolism 
+Rv0849	-	R	General function prediction only 
+Rv0850	-	L	Replication, recombination and repair 
+Rv0851c	-	R	General function prediction only 
+Rv0852	fadD16	I	Lipid transport and metabolism 
+Rv0853c	pdc	R	General function prediction only 
+Rv0854	-	H	Coenzyme transport and metabolism 
+Rv0855	far	C	Energy production and conversion 
+Rv0858c	-	E	Amino acid transport and metabolism 
+Rv0859	fadA	I	Lipid transport and metabolism 
+Rv0860	fadB	I	Lipid transport and metabolism 
+Rv0860	fadB	I	Lipid transport and metabolism 
+Rv0861c	ercc3	L	Replication, recombination and repair 
+Rv0864	moaC	H	Coenzyme transport and metabolism 
+Rv0865	mog	H	Coenzyme transport and metabolism 
+Rv0866	moaE2	H	Coenzyme transport and metabolism 
+Rv0868c	moaD2	H	Coenzyme transport and metabolism 
+Rv0869c	moaA	H	Coenzyme transport and metabolism 
+Rv0870c	-	S	Function unknown 
+Rv0871	cspB	K	Transcription 
+Rv0873	fadE10	I	Lipid transport and metabolism 
+Rv0874c	-	S	Function unknown 
+Rv0876c	-	R	General function prediction only 
+Rv0880	-	K	Transcription 
+Rv0881	-	J	Translation, ribosomal structure and biogenesis 
+Rv0884c	serC	E	Amino acid transport and metabolism 
+Rv0886	fprB	R	General function prediction only 
+Rv0886	fprB	C	Energy production and conversion 
+Rv0887c	-	S	Function unknown 
+Rv0889c	citA	C	Energy production and conversion 
+Rv0890c	-	K	Transcription 
+Rv0890c	-	R	General function prediction only 
+Rv0891c	-	T	Signal transduction mechanisms 
+Rv0892	-	P	Inorganic ion transport and metabolism 
+Rv0893c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0894	-	R	General function prediction only 
+Rv0895	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0896	gltA	C	Energy production and conversion 
+Rv0897c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0899	ompA	M	Cell wall/membrane/envelope biogenesis 
+Rv0902c	prrB	T	Signal transduction mechanisms 
+Rv0903c	prrA	K	Transcription 
+Rv0904c	accD3	I	Lipid transport and metabolism 
+Rv0904c	accD3	I	Lipid transport and metabolism 
+Rv0905	echA6	I	Lipid transport and metabolism 
+Rv0906	-	R	General function prediction only 
+Rv0907	-	V	Defense mechanisms 
+Rv0908	ctpE	P	Inorganic ion transport and metabolism 
+Rv0911	-	R	General function prediction only 
+Rv0913c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0914c	-	I	Lipid transport and metabolism 
+Rv0917	betP	M	Cell wall/membrane/envelope biogenesis 
+Rv0918	-	S	Function unknown 
+Rv0919	-	R	General function prediction only 
+Rv0920c	-	L	Replication, recombination and repair 
+Rv0921	-	L	Replication, recombination and repair 
+Rv0922	-	L	Replication, recombination and repair 
+Rv0923c	-	S	Function unknown 
+Rv0923c	-	R	General function prediction only 
+Rv0924c	mntH	P	Inorganic ion transport and metabolism 
+Rv0925c	-	R	General function prediction only 
+Rv0926c	-	S	Function unknown 
+Rv0927c	-	R	General function prediction only 
+Rv0928	pstS3	P	Inorganic ion transport and metabolism 
+Rv0929	pstC2	P	Inorganic ion transport and metabolism 
+Rv0930	pstA1	P	Inorganic ion transport and metabolism 
+Rv0931c	pknD	L	Replication, recombination and repair 
+Rv0931c	pknD	S	Function unknown 
+Rv0932c	pstS2	P	Inorganic ion transport and metabolism 
+Rv0933	pstB	P	Inorganic ion transport and metabolism 
+Rv0934	pstS1	P	Inorganic ion transport and metabolism 
+Rv0935	pstC1	P	Inorganic ion transport and metabolism 
+Rv0936	pstA2	P	Inorganic ion transport and metabolism 
+Rv0937c	-	S	Function unknown 
+Rv0938	-	L	Replication, recombination and repair 
+Rv0938	-	L	Replication, recombination and repair 
+Rv0939	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv0939	-	R	General function prediction only 
+Rv0940c	-	C	Energy production and conversion 
+Rv0943c	-	P	Inorganic ion transport and metabolism 
+Rv0944	-	L	Replication, recombination and repair 
+Rv0945	-	R	General function prediction only 
+Rv0946c	pgi	G	Carbohydrate transport and metabolism 
+Rv0948c	-	E	Amino acid transport and metabolism 
+Rv0949	uvrD1	L	Replication, recombination and repair 
+Rv0950c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv0951	sucC	C	Energy production and conversion 
+Rv0952	sucD	C	Energy production and conversion 
+Rv0953c	-	C	Energy production and conversion 
+Rv0956	purN	F	Nucleotide transport and metabolism 
+Rv0957	purH	F	Nucleotide transport and metabolism 
+Rv0958	-	H	Coenzyme transport and metabolism 
+Rv0959	-	R	General function prediction only 
+Rv0960	-	R	General function prediction only 
+Rv0962c	lprP	C	Energy production and conversion 
+Rv0962c	lprP	E	Amino acid transport and metabolism 
+Rv0967	-	S	Function unknown 
+Rv0969	ctpV	P	Inorganic ion transport and metabolism 
+Rv0971c	echA7	I	Lipid transport and metabolism 
+Rv0972c	fadE12	I	Lipid transport and metabolism 
+Rv0973c	accA2	I	Lipid transport and metabolism 
+Rv0973c	accA2	I	Lipid transport and metabolism 
+Rv0973c	accA2	I	Lipid transport and metabolism 
+Rv0974c	accD2	I	Lipid transport and metabolism 
+Rv0975c	fadE13	I	Lipid transport and metabolism 
+Rv0978c	PE_PGRS17	S	Function unknown 
+Rv0980c	PE_PGRS18	S	Function unknown 
+Rv0981	mprA	K	Transcription 
+Rv0982	mprB	T	Signal transduction mechanisms 
+Rv0983	pepD	O	Posttranslational modification, protein turnover, chaperones 
+Rv0984	moaB2	H	Coenzyme transport and metabolism 
+Rv0985c	mscL	M	Cell wall/membrane/envelope biogenesis 
+Rv0986	-	V	Defense mechanisms 
+Rv0987	-	V	Defense mechanisms 
+Rv0988	-	R	General function prediction only 
+Rv0989c	grcC2	H	Coenzyme transport and metabolism 
+Rv0991c	-	S	Function unknown 
+Rv0992c	-	H	Coenzyme transport and metabolism 
+Rv0993	galU	M	Cell wall/membrane/envelope biogenesis 
+Rv0994	moeA1	H	Coenzyme transport and metabolism 
+Rv0995	rimJ	J	Translation, ribosomal structure and biogenesis 
+Rv0998	-	R	General function prediction only 
+Rv0998	-	T	Signal transduction mechanisms 
+Rv1000c	-	L	Replication, recombination and repair 
+Rv1001	arcA	E	Amino acid transport and metabolism 
+Rv1002c	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv1003	-	R	General function prediction only 
+Rv1005c	pabB	H	Coenzyme transport and metabolism 
+Rv1007c	metG	J	Translation, ribosomal structure and biogenesis 
+Rv1008	tatD	L	Replication, recombination and repair 
+Rv1009	rpfB	S	Function unknown 
+Rv1010	ksgA	J	Translation, ribosomal structure and biogenesis 
+Rv1011	ispE	I	Lipid transport and metabolism 
+Rv1013	pks16	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1014c	pth	J	Translation, ribosomal structure and biogenesis 
+Rv1015c	rplY	J	Translation, ribosomal structure and biogenesis 
+Rv1017c	prsA	E	Amino acid transport and metabolism 
+Rv1018c	glmU	M	Cell wall/membrane/envelope biogenesis 
+Rv1019	-	K	Transcription 
+Rv1020	mfd	K	Transcription 
+Rv1021	-	R	General function prediction only 
+Rv1022	lpqU	M	Cell wall/membrane/envelope biogenesis 
+Rv1023	eno	G	Carbohydrate transport and metabolism 
+Rv1024	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv1025	-	S	Function unknown 
+Rv1026	-	P	Inorganic ion transport and metabolism 
+Rv1027c	kdpE	K	Transcription 
+Rv1028c	kdpD	T	Signal transduction mechanisms 
+Rv1029	kdpA	P	Inorganic ion transport and metabolism 
+Rv1030	kdpB	P	Inorganic ion transport and metabolism 
+Rv1031	kdpC	P	Inorganic ion transport and metabolism 
+Rv1032c	trcS	T	Signal transduction mechanisms 
+Rv1033c	trcR	K	Transcription 
+Rv1034c	-	L	Replication, recombination and repair 
+Rv1041c	-	L	Replication, recombination and repair 
+Rv1042c	-	L	Replication, recombination and repair 
+Rv1043c	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv1047	-	L	Replication, recombination and repair 
+Rv1049	-	K	Transcription 
+Rv1050	-	R	General function prediction only 
+Rv1056	-	S	Function unknown 
+Rv1057	-	S	Function unknown 
+Rv1058	fadD14	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1059	-	E	Amino acid transport and metabolism 
+Rv1059	-	S	Function unknown 
+Rv1061	-	R	General function prediction only 
+Rv1062	-	R	General function prediction only 
+Rv1063c	-	R	General function prediction only 
+Rv1066	-	P	Inorganic ion transport and metabolism 
+Rv1069c	-	S	Function unknown 
+Rv1070c	echA8	I	Lipid transport and metabolism 
+Rv1071c	echA9	I	Lipid transport and metabolism 
+Rv1072	-	S	Function unknown 
+Rv1074c	fadA3	I	Lipid transport and metabolism 
+Rv1075c	-	E	Amino acid transport and metabolism 
+Rv1076	lipU	I	Lipid transport and metabolism 
+Rv1077	cbs	E	Amino acid transport and metabolism 
+Rv1077	cbs	R	General function prediction only 
+Rv1078	pra	S	Function unknown 
+Rv1079	metB	E	Amino acid transport and metabolism 
+Rv1080c	greA	K	Transcription 
+Rv1082	mca	S	Function unknown 
+Rv1084	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv1085c	-	R	General function prediction only 
+Rv1086	-	I	Lipid transport and metabolism 
+Rv1087A	-	I	Lipid transport and metabolism 
+Rv1092c	coaA	H	Coenzyme transport and metabolism 
+Rv1093	glyA	E	Amino acid transport and metabolism 
+Rv1095	phoH2	T	Signal transduction mechanisms 
+Rv1096	-	G	Carbohydrate transport and metabolism 
+Rv1098c	fumC	C	Energy production and conversion 
+Rv1099c	glpX	G	Carbohydrate transport and metabolism 
+Rv1101c	-	R	General function prediction only 
+Rv1102c	-	T	Signal transduction mechanisms 
+Rv1104	-	I	Lipid transport and metabolism 
+Rv1105	-	I	Lipid transport and metabolism 
+Rv1106c	-	G	Carbohydrate transport and metabolism 
+Rv1107c	xseB	L	Replication, recombination and repair 
+Rv1108c	xseA	L	Replication, recombination and repair 
+Rv1110	ispH	M	Cell wall/membrane/envelope biogenesis 
+Rv1112	-	J	Translation, ribosomal structure and biogenesis 
+Rv1114	-	R	General function prediction only 
+Rv1115	-	M	Cell wall/membrane/envelope biogenesis 
+Rv1117	-	S	Function unknown 
+Rv1120c	-	T	Signal transduction mechanisms 
+Rv1121	zwf1	G	Carbohydrate transport and metabolism 
+Rv1122	gnd2	G	Carbohydrate transport and metabolism 
+Rv1123c	bpoB	R	General function prediction only 
+Rv1124	ephC	R	General function prediction only 
+Rv1125	-	E	Amino acid transport and metabolism 
+Rv1127c	ppdK	G	Carbohydrate transport and metabolism 
+Rv1129c	-	K	Transcription 
+Rv1129c	-	R	General function prediction only 
+Rv1130	-	R	General function prediction only 
+Rv1131	gltA1	C	Energy production and conversion 
+Rv1133c	metE	E	Amino acid transport and metabolism 
+Rv1135A	-	I	Lipid transport and metabolism 
+Rv1136	-	I	Lipid transport and metabolism 
+Rv1138c	-	C	Energy production and conversion 
+Rv1139c	-	S	Function unknown 
+Rv1140	-	R	General function prediction only 
+Rv1141c	echA11	I	Lipid transport and metabolism 
+Rv1142c	echA10	I	Lipid transport and metabolism 
+Rv1143	mcr	C	Energy production and conversion 
+Rv1144	-	R	General function prediction only 
+Rv1145	mmpL13a	R	General function prediction only 
+Rv1146	mmpL13b	R	General function prediction only 
+Rv1147	-	R	General function prediction only 
+Rv1149	-	L	Replication, recombination and repair 
+Rv1151c	-	K	Transcription 
+Rv1152	-	K	Transcription 
+Rv1153c	omt	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1154c	-	S	Function unknown 
+Rv1156	-	L	Replication, recombination and repair 
+Rv1159A	phhB	H	Coenzyme transport and metabolism 
+Rv1160	mutT2	R	General function prediction only 
+Rv1161	narG	C	Energy production and conversion 
+Rv1162	narH	C	Energy production and conversion 
+Rv1163	narJ	C	Energy production and conversion 
+Rv1164	narI	C	Energy production and conversion 
+Rv1165	typA	T	Signal transduction mechanisms 
+Rv1166	lpqW	E	Amino acid transport and metabolism 
+Rv1167c	-	K	Transcription 
+Rv1170	mshB	S	Function unknown 
+Rv1173	fbiC	R	General function prediction only 
+Rv1175c	fadH	R	General function prediction only 
+Rv1175c	fadH	C	Energy production and conversion 
+Rv1176c	-	K	Transcription 
+Rv1177	fdxC	C	Energy production and conversion 
+Rv1178	-	E	Amino acid transport and metabolism 
+Rv1179c	-	L	Replication, recombination and repair 
+Rv1180	pks3	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1181	pks4	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1182	papA3	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1183	mmpL10	R	General function prediction only 
+Rv1184c	-	R	General function prediction only 
+Rv1185c	fadD21	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1186c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1187	rocA	C	Energy production and conversion 
+Rv1188	-	E	Amino acid transport and metabolism 
+Rv1189	sigI	K	Transcription 
+Rv1190	-	R	General function prediction only 
+Rv1191	-	R	General function prediction only 
+Rv1192	-	R	General function prediction only 
+Rv1193	fadD36	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1194c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1199c	-	L	Replication, recombination and repair 
+Rv1200	-	R	General function prediction only 
+Rv1201c	-	E	Amino acid transport and metabolism 
+Rv1202	dapE	E	Amino acid transport and metabolism 
+Rv1204c	-	R	General function prediction only 
+Rv1205	-	R	General function prediction only 
+Rv1206	fadD6	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1207	folP2	H	Coenzyme transport and metabolism 
+Rv1208	-	M	Cell wall/membrane/envelope biogenesis 
+Rv1210	tagA	L	Replication, recombination and repair 
+Rv1212c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv1213	glgC	G	Carbohydrate transport and metabolism 
+Rv1215c	-	R	General function prediction only 
+Rv1216c	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv1217c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv1218c	-	V	Defense mechanisms 
+Rv1219c	-	K	Transcription 
+Rv1220c	-	R	General function prediction only 
+Rv1221	sigE	K	Transcription 
+Rv1223	htrA	O	Posttranslational modification, protein turnover, chaperones 
+Rv1224	tatB	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv1225c	-	G	Carbohydrate transport and metabolism 
+Rv1226c	-	S	Function unknown 
+Rv1227c	-	S	Function unknown 
+Rv1229c	mrp	D	Cell cycle control, cell division, chromosome partitioning 
+Rv1230c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv1231c	-	S	Function unknown 
+Rv1232c	-	P	Inorganic ion transport and metabolism 
+Rv1235	lpqY	G	Carbohydrate transport and metabolism 
+Rv1236	sugA	G	Carbohydrate transport and metabolism 
+Rv1237	sugB	G	Carbohydrate transport and metabolism 
+Rv1238	sugC	G	Carbohydrate transport and metabolism 
+Rv1239c	corA	P	Inorganic ion transport and metabolism 
+Rv1240	mdh	C	Energy production and conversion 
+Rv1244	lpqZ	M	Cell wall/membrane/envelope biogenesis 
+Rv1245c	-	R	General function prediction only 
+Rv1246c	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv1247c	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv1248c	kgd	C	Energy production and conversion 
+Rv1248c	kgd	C	Energy production and conversion 
+Rv1250	-	R	General function prediction only 
+Rv1251c	-	L	Replication, recombination and repair 
+Rv1251c	-	R	General function prediction only 
+Rv1253	deaD	J	Translation, ribosomal structure and biogenesis 
+Rv1254	-	I	Lipid transport and metabolism 
+Rv1255c	-	K	Transcription 
+Rv1256c	cyp130	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1257c	-	C	Energy production and conversion 
+Rv1258c	-	R	General function prediction only 
+Rv1259	-	L	Replication, recombination and repair 
+Rv1260	-	C	Energy production and conversion 
+Rv1262c	-	R	General function prediction only 
+Rv1263	amiB2	J	Translation, ribosomal structure and biogenesis 
+Rv1264	-	T	Signal transduction mechanisms 
+Rv1266c	pknH	L	Replication, recombination and repair 
+Rv1267c	embR	T	Signal transduction mechanisms 
+Rv1267c	embR	T	Signal transduction mechanisms 
+Rv1272c	-	V	Defense mechanisms 
+Rv1273c	-	V	Defense mechanisms 
+Rv1276c	-	T	Signal transduction mechanisms 
+Rv1277	-	L	Replication, recombination and repair 
+Rv1278	-	L	Replication, recombination and repair 
+Rv1278	-	S	Function unknown 
+Rv1279	-	E	Amino acid transport and metabolism 
+Rv1280c	oppA	E	Amino acid transport and metabolism 
+Rv1281c	oppD	R	General function prediction only 
+Rv1282c	oppC	P	Inorganic ion transport and metabolism 
+Rv1283c	oppB	P	Inorganic ion transport and metabolism 
+Rv1284	-	P	Inorganic ion transport and metabolism 
+Rv1285	cysD	H	Coenzyme transport and metabolism 
+Rv1286	cysN	P	Inorganic ion transport and metabolism 
+Rv1286	cysN	P	Inorganic ion transport and metabolism 
+Rv1287	-	K	Transcription 
+Rv1288	-	R	General function prediction only 
+Rv1288	-	M	Cell wall/membrane/envelope biogenesis 
+Rv1290c	-	S	Function unknown 
+Rv1292	argS	J	Translation, ribosomal structure and biogenesis 
+Rv1293	lysA	E	Amino acid transport and metabolism 
+Rv1294	thrA	E	Amino acid transport and metabolism 
+Rv1295	thrC	E	Amino acid transport and metabolism 
+Rv1296	thrB	E	Amino acid transport and metabolism 
+Rv1297	rho	K	Transcription 
+Rv1298	rpmE	J	Translation, ribosomal structure and biogenesis 
+Rv1299	prfA	J	Translation, ribosomal structure and biogenesis 
+Rv1300	hemK	J	Translation, ribosomal structure and biogenesis 
+Rv1301	-	J	Translation, ribosomal structure and biogenesis 
+Rv1302	rfe	M	Cell wall/membrane/envelope biogenesis 
+Rv1304	atpB	C	Energy production and conversion 
+Rv1305	atpE	C	Energy production and conversion 
+Rv1306	atpF	C	Energy production and conversion 
+Rv1307	atpH	C	Energy production and conversion 
+Rv1307	atpH	C	Energy production and conversion 
+Rv1308	atpA	C	Energy production and conversion 
+Rv1309	atpG	C	Energy production and conversion 
+Rv1310	atpD	C	Energy production and conversion 
+Rv1311	atpC	C	Energy production and conversion 
+Rv1313c	-	L	Replication, recombination and repair 
+Rv1314c	-	S	Function unknown 
+Rv1315	murA	M	Cell wall/membrane/envelope biogenesis 
+Rv1316c	ogt	L	Replication, recombination and repair 
+Rv1317c	alkA	L	Replication, recombination and repair 
+Rv1317c	alkA	F	Nucleotide transport and metabolism 
+Rv1318c	-	T	Signal transduction mechanisms 
+Rv1319c	-	T	Signal transduction mechanisms 
+Rv1320c	-	T	Signal transduction mechanisms 
+Rv1321	-	L	Replication, recombination and repair 
+Rv1322A	-	E	Amino acid transport and metabolism 
+Rv1323	fadA4	I	Lipid transport and metabolism 
+Rv1324	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv1326c	glgB	G	Carbohydrate transport and metabolism 
+Rv1327c	glgE	G	Carbohydrate transport and metabolism 
+Rv1328	glgP	G	Carbohydrate transport and metabolism 
+Rv1329c	dinG	L	Replication, recombination and repair 
+Rv1330c	-	H	Coenzyme transport and metabolism 
+Rv1331	clpS	S	Function unknown 
+Rv1333	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1334	-	R	General function prediction only 
+Rv1335	-	H	Coenzyme transport and metabolism 
+Rv1336	cysM	E	Amino acid transport and metabolism 
+Rv1337	-	R	General function prediction only 
+Rv1338	murI	M	Cell wall/membrane/envelope biogenesis 
+Rv1339	-	R	General function prediction only 
+Rv1340	rph	J	Translation, ribosomal structure and biogenesis 
+Rv1341	-	F	Nucleotide transport and metabolism 
+Rv1343c	lprD	K	Transcription 
+Rv1344	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1345	fadD33	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1346	fadE14	I	Lipid transport and metabolism 
+Rv1347c	-	J	Translation, ribosomal structure and biogenesis 
+Rv1348	-	V	Defense mechanisms 
+Rv1348	-	P	Inorganic ion transport and metabolism 
+Rv1349	-	V	Defense mechanisms 
+Rv1350	fabG	R	General function prediction only 
+Rv1353c	-	K	Transcription 
+Rv1354c	-	T	Signal transduction mechanisms 
+Rv1354c	-	T	Signal transduction mechanisms 
+Rv1355c	moeY	H	Coenzyme transport and metabolism 
+Rv1357c	-	T	Signal transduction mechanisms 
+Rv1358	-	T	Signal transduction mechanisms 
+Rv1358	-	K	Transcription 
+Rv1358	-	R	General function prediction only 
+Rv1359	-	T	Signal transduction mechanisms 
+Rv1360	-	C	Energy production and conversion 
+Rv1364c	-	T	Signal transduction mechanisms 
+Rv1364c	-	T	Signal transduction mechanisms 
+Rv1364c	-	K	Transcription 
+Rv1365c	rsfA	T	Signal transduction mechanisms 
+Rv1366	-	S	Function unknown 
+Rv1367c	-	V	Defense mechanisms 
+Rv1369c	-	L	Replication, recombination and repair 
+Rv1370c	-	L	Replication, recombination and repair 
+Rv1372	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1375	-	S	Function unknown 
+Rv1376	-	S	Function unknown 
+Rv1377c	-	R	General function prediction only 
+Rv1378c	-	V	Defense mechanisms 
+Rv1379	pyrR	F	Nucleotide transport and metabolism 
+Rv1380	pyrB	F	Nucleotide transport and metabolism 
+Rv1381	pyrC	F	Nucleotide transport and metabolism 
+Rv1383	carA	F	Nucleotide transport and metabolism 
+Rv1384	carB	F	Nucleotide transport and metabolism 
+Rv1385	pyrF	F	Nucleotide transport and metabolism 
+Rv1389	gmk	F	Nucleotide transport and metabolism 
+Rv1390	rpoZ	K	Transcription 
+Rv1391	dfp	H	Coenzyme transport and metabolism 
+Rv1392	metK	H	Coenzyme transport and metabolism 
+Rv1393c	-	P	Inorganic ion transport and metabolism 
+Rv1394c	cyp132	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1395	-	K	Transcription 
+Rv1397c	-	R	General function prediction only 
+Rv1399c	lipH	I	Lipid transport and metabolism 
+Rv1400c	lipI	I	Lipid transport and metabolism 
+Rv1401	-	S	Function unknown 
+Rv1402	priA	L	Replication, recombination and repair 
+Rv1403c	-	R	General function prediction only 
+Rv1404	-	K	Transcription 
+Rv1405c	-	R	General function prediction only 
+Rv1406	fmt	J	Translation, ribosomal structure and biogenesis 
+Rv1407	fmu	J	Translation, ribosomal structure and biogenesis 
+Rv1408	rpe	G	Carbohydrate transport and metabolism 
+Rv1409	ribG	H	Coenzyme transport and metabolism 
+Rv1409	ribG	H	Coenzyme transport and metabolism 
+Rv1410c	-	R	General function prediction only 
+Rv1412	ribC	H	Coenzyme transport and metabolism 
+Rv1413	-	E	Amino acid transport and metabolism 
+Rv1414	-	E	Amino acid transport and metabolism 
+Rv1415	ribA2	H	Coenzyme transport and metabolism 
+Rv1415	ribA2	H	Coenzyme transport and metabolism 
+Rv1416	ribH	H	Coenzyme transport and metabolism 
+Rv1420	uvrC	L	Replication, recombination and repair 
+Rv1421	-	R	General function prediction only 
+Rv1422	-	S	Function unknown 
+Rv1423	whiA	S	Function unknown 
+Rv1426c	lipO	I	Lipid transport and metabolism 
+Rv1427c	fadD12	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1428c	-	I	Lipid transport and metabolism 
+Rv1429	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1432	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1433	-	S	Function unknown 
+Rv1436	gap	G	Carbohydrate transport and metabolism 
+Rv1437	pgk	G	Carbohydrate transport and metabolism 
+Rv1438	tpiA	G	Carbohydrate transport and metabolism 
+Rv1440	secG	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv1442	bisC	C	Energy production and conversion 
+Rv1443c	-	S	Function unknown 
+Rv1444c	-	L	Replication, recombination and repair 
+Rv1445c	devB	G	Carbohydrate transport and metabolism 
+Rv1446c	opcA	G	Carbohydrate transport and metabolism 
+Rv1447c	zwf2	G	Carbohydrate transport and metabolism 
+Rv1448c	tal	G	Carbohydrate transport and metabolism 
+Rv1449c	tkt	G	Carbohydrate transport and metabolism 
+Rv1451	ctaB	O	Posttranslational modification, protein turnover, chaperones 
+Rv1453	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1454c	qor	R	General function prediction only 
+Rv1456c	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv1457c	-	V	Defense mechanisms 
+Rv1458c	-	V	Defense mechanisms 
+Rv1460	-	K	Transcription 
+Rv1461	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv1461	-	L	Replication, recombination and repair 
+Rv1462	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv1463	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv1464	csd	E	Amino acid transport and metabolism 
+Rv1465	-	C	Energy production and conversion 
+Rv1466	-	R	General function prediction only 
+Rv1467c	fadE15	I	Lipid transport and metabolism 
+Rv1469	ctpD	P	Inorganic ion transport and metabolism 
+Rv1470	trxA	C	Energy production and conversion 
+Rv1471	trxB1	C	Energy production and conversion 
+Rv1472	echA12	I	Lipid transport and metabolism 
+Rv1473	-	R	General function prediction only 
+Rv1474c	-	K	Transcription 
+Rv1475c	acn	C	Energy production and conversion 
+Rv1477	-	M	Cell wall/membrane/envelope biogenesis 
+Rv1478	-	M	Cell wall/membrane/envelope biogenesis 
+Rv1479	moxR1	R	General function prediction only 
+Rv1480	-	R	General function prediction only 
+Rv1481	-	R	General function prediction only 
+Rv1483	fabG1	R	General function prediction only 
+Rv1484	inhA	I	Lipid transport and metabolism 
+Rv1485	hemH	H	Coenzyme transport and metabolism 
+Rv1487	-	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv1488	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv1489A	-	I	Lipid transport and metabolism 
+Rv1491c	-	S	Function unknown 
+Rv1492	mutA	I	Lipid transport and metabolism 
+Rv1492	mutA	I	Lipid transport and metabolism 
+Rv1493	mutB	I	Lipid transport and metabolism 
+Rv1493	mutB	I	Lipid transport and metabolism 
+Rv1495	-	T	Signal transduction mechanisms 
+Rv1496	-	E	Amino acid transport and metabolism 
+Rv1497	lipL	V	Defense mechanisms 
+Rv1498c	-	R	General function prediction only 
+Rv1498A	-	S	Function unknown 
+Rv1500	-	M	Cell wall/membrane/envelope biogenesis 
+Rv1501	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1502	-	G	Carbohydrate transport and metabolism 
+Rv1503c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv1504c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv1505c	-	R	General function prediction only 
+Rv1506c	-	R	General function prediction only 
+Rv1508A	-	M	Cell wall/membrane/envelope biogenesis 
+Rv1509	-	R	General function prediction only 
+Rv1511	gmdA	M	Cell wall/membrane/envelope biogenesis 
+Rv1512	epiA	G	Carbohydrate transport and metabolism 
+Rv1513	-	R	General function prediction only 
+Rv1514c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv1515c	-	R	General function prediction only 
+Rv1516c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv1518	-	M	Cell wall/membrane/envelope biogenesis 
+Rv1520	-	M	Cell wall/membrane/envelope biogenesis 
+Rv1521	fadD25	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1522c	mmpL12	R	General function prediction only 
+Rv1523	-	R	General function prediction only 
+Rv1524	-	C	Energy production and conversion 
+Rv1525	wbbL2	R	General function prediction only 
+Rv1526c	-	C	Energy production and conversion 
+Rv1527c	pks5	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1529	fadD24	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1530	adh	R	General function prediction only 
+Rv1531	-	S	Function unknown 
+Rv1532c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1533	-	R	General function prediction only 
+Rv1534	-	K	Transcription 
+Rv1536	ileS	J	Translation, ribosomal structure and biogenesis 
+Rv1537	dinX	L	Replication, recombination and repair 
+Rv1538c	ansA	J	Translation, ribosomal structure and biogenesis 
+Rv1539	lspA	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv1540	-	J	Translation, ribosomal structure and biogenesis 
+Rv1541c	lprI	R	General function prediction only 
+Rv1541c	lprI	S	Function unknown 
+Rv1542c	glbN	R	General function prediction only 
+Rv1543	-	R	General function prediction only 
+Rv1544	-	R	General function prediction only 
+Rv1547	dnaE	L	Replication, recombination and repair 
+Rv1549	fadD11.1	I	Lipid transport and metabolism 
+Rv1550	fadD11	I	Lipid transport and metabolism 
+Rv1551	plsB1	I	Lipid transport and metabolism 
+Rv1552	frdA	C	Energy production and conversion 
+Rv1553	frdB	C	Energy production and conversion 
+Rv1554	frdC	C	Energy production and conversion 
+Rv1556	-	K	Transcription 
+Rv1557	mmpL6	R	General function prediction only 
+Rv1559	ilvA	E	Amino acid transport and metabolism 
+Rv1560	-	K	Transcription 
+Rv1561	-	R	General function prediction only 
+Rv1562c	treZ	G	Carbohydrate transport and metabolism 
+Rv1563c	treY	G	Carbohydrate transport and metabolism 
+Rv1564c	treX	G	Carbohydrate transport and metabolism 
+Rv1565c	-	I	Lipid transport and metabolism 
+Rv1566c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv1568	bioA	H	Coenzyme transport and metabolism 
+Rv1569	bioF1	H	Coenzyme transport and metabolism 
+Rv1570	bioD	H	Coenzyme transport and metabolism 
+Rv1576c	-	R	General function prediction only 
+Rv1577c	-	R	General function prediction only 
+Rv1578c	-	L	Replication, recombination and repair 
+Rv1582c	-	R	General function prediction only 
+Rv1586c	-	L	Replication, recombination and repair 
+Rv1589	bioB	H	Coenzyme transport and metabolism 
+Rv1593c	-	F	Nucleotide transport and metabolism 
+Rv1594	nadA	H	Coenzyme transport and metabolism 
+Rv1595	nadB	H	Coenzyme transport and metabolism 
+Rv1596	nadC	H	Coenzyme transport and metabolism 
+Rv1597	-	R	General function prediction only 
+Rv1599	hisD	E	Amino acid transport and metabolism 
+Rv1600	hisC1	E	Amino acid transport and metabolism 
+Rv1601	hisB	E	Amino acid transport and metabolism 
+Rv1602	hisH	E	Amino acid transport and metabolism 
+Rv1603	hisA	E	Amino acid transport and metabolism 
+Rv1604	impA	G	Carbohydrate transport and metabolism 
+Rv1605	hisF	E	Amino acid transport and metabolism 
+Rv1606	hisI	E	Amino acid transport and metabolism 
+Rv1607	chaA	P	Inorganic ion transport and metabolism 
+Rv1608c	bcpB	O	Posttranslational modification, protein turnover, chaperones 
+Rv1609	trpE	H	Coenzyme transport and metabolism 
+Rv1611	trpC	E	Amino acid transport and metabolism 
+Rv1612	trpB	E	Amino acid transport and metabolism 
+Rv1613	trpA	E	Amino acid transport and metabolism 
+Rv1614	lgt	M	Cell wall/membrane/envelope biogenesis 
+Rv1615	-	S	Function unknown 
+Rv1617	pykA	G	Carbohydrate transport and metabolism 
+Rv1618	tesB1	I	Lipid transport and metabolism 
+Rv1619	-	S	Function unknown 
+Rv1620c	cydC	V	Defense mechanisms 
+Rv1621c	cydD	O	Posttranslational modification, protein turnover, chaperones 
+Rv1622c	cydB	C	Energy production and conversion 
+Rv1623c	cydA	C	Energy production and conversion 
+Rv1624c	-	S	Function unknown 
+Rv1625c	cya	T	Signal transduction mechanisms 
+Rv1626	-	T	Signal transduction mechanisms 
+Rv1627c	-	I	Lipid transport and metabolism 
+Rv1628c	-	R	General function prediction only 
+Rv1629	polA	L	Replication, recombination and repair 
+Rv1629	polA	L	Replication, recombination and repair 
+Rv1630	rpsA	J	Translation, ribosomal structure and biogenesis 
+Rv1631	coaE	H	Coenzyme transport and metabolism 
+Rv1631	coaE	S	Function unknown 
+Rv1632c	-	S	Function unknown 
+Rv1633	uvrB	L	Replication, recombination and repair 
+Rv1634	-	R	General function prediction only 
+Rv1636	TB15.3	T	Signal transduction mechanisms 
+Rv1637c	-	R	General function prediction only 
+Rv1638	uvrA	L	Replication, recombination and repair 
+Rv1638A	-	T	Signal transduction mechanisms 
+Rv1639c	-	R	General function prediction only 
+Rv1640c	lysS	J	Translation, ribosomal structure and biogenesis 
+Rv1640c	lysS	S	Function unknown 
+Rv1641	infC	J	Translation, ribosomal structure and biogenesis 
+Rv1642	rpmI	J	Translation, ribosomal structure and biogenesis 
+Rv1643	rplT	J	Translation, ribosomal structure and biogenesis 
+Rv1644	tsnR	J	Translation, ribosomal structure and biogenesis 
+Rv1645c	-	S	Function unknown 
+Rv1647	-	T	Signal transduction mechanisms 
+Rv1649	pheS	J	Translation, ribosomal structure and biogenesis 
+Rv1650	pheT	J	Translation, ribosomal structure and biogenesis 
+Rv1650	pheT	R	General function prediction only 
+Rv1652	argC	E	Amino acid transport and metabolism 
+Rv1653	argJ	E	Amino acid transport and metabolism 
+Rv1654	argB	E	Amino acid transport and metabolism 
+Rv1655	argD	E	Amino acid transport and metabolism 
+Rv1656	argF	E	Amino acid transport and metabolism 
+Rv1657	argR	K	Transcription 
+Rv1658	argG	E	Amino acid transport and metabolism 
+Rv1659	argH	E	Amino acid transport and metabolism 
+Rv1660	pks10	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1661	pks7	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1662	pks8	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1663	pks17	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1664	pks9	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1665	pks11	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1666c	cyp139	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1667c	-	R	General function prediction only 
+Rv1668c	-	R	General function prediction only 
+Rv1670	-	S	Function unknown 
+Rv1672c	-	R	General function prediction only 
+Rv1673c	-	E	Amino acid transport and metabolism 
+Rv1674c	-	P	Inorganic ion transport and metabolism 
+Rv1674c	-	K	Transcription 
+Rv1675c	-	T	Signal transduction mechanisms 
+Rv1676	-	E	Amino acid transport and metabolism 
+Rv1677	dsbF	C	Energy production and conversion 
+Rv1679	fadE16	I	Lipid transport and metabolism 
+Rv1680	-	P	Inorganic ion transport and metabolism 
+Rv1681	moeX	R	General function prediction only 
+Rv1683	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1683	-	I	Lipid transport and metabolism 
+Rv1684	-	S	Function unknown 
+Rv1685c	-	K	Transcription 
+Rv1686c	-	V	Defense mechanisms 
+Rv1687c	-	V	Defense mechanisms 
+Rv1688	mpg	L	Replication, recombination and repair 
+Rv1689	tyrS	J	Translation, ribosomal structure and biogenesis 
+Rv1691	-	R	General function prediction only 
+Rv1692	-	G	Carbohydrate transport and metabolism 
+Rv1694	tlyA	J	Translation, ribosomal structure and biogenesis 
+Rv1695	ppnK	G	Carbohydrate transport and metabolism 
+Rv1696	recN	L	Replication, recombination and repair 
+Rv1697	-	S	Function unknown 
+Rv1699	pyrG	F	Nucleotide transport and metabolism 
+Rv1700	-	R	General function prediction only 
+Rv1701	xerD	L	Replication, recombination and repair 
+Rv1702c	-	C	Energy production and conversion 
+Rv1703c	-	R	General function prediction only 
+Rv1704c	cycA	E	Amino acid transport and metabolism 
+Rv1706A	-	R	General function prediction only 
+Rv1707	-	P	Inorganic ion transport and metabolism 
+Rv1708	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv1709	-	S	Function unknown 
+Rv1710	-	K	Transcription 
+Rv1711	-	J	Translation, ribosomal structure and biogenesis 
+Rv1712	cmk	F	Nucleotide transport and metabolism 
+Rv1713	engA	R	General function prediction only 
+Rv1714	-	R	General function prediction only 
+Rv1715	fadB3	I	Lipid transport and metabolism 
+Rv1716	-	R	General function prediction only 
+Rv1717	-	G	Carbohydrate transport and metabolism 
+Rv1717	-	S	Function unknown 
+Rv1718	-	S	Function unknown 
+Rv1719	-	K	Transcription 
+Rv1720c	-	R	General function prediction only 
+Rv1722	-	I	Lipid transport and metabolism 
+Rv1723	-	V	Defense mechanisms 
+Rv1725c	-	K	Transcription 
+Rv1726	-	C	Energy production and conversion 
+Rv1729c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1730c	-	V	Defense mechanisms 
+Rv1731	gabD2	C	Energy production and conversion 
+Rv1732c	-	C	Energy production and conversion 
+Rv1734c	-	C	Energy production and conversion 
+Rv1735c	-	P	Inorganic ion transport and metabolism 
+Rv1736c	narX	C	Energy production and conversion 
+Rv1736c	narX	C	Energy production and conversion 
+Rv1736c	narX	C	Energy production and conversion 
+Rv1737c	narK2	P	Inorganic ion transport and metabolism 
+Rv1739c	-	P	Inorganic ion transport and metabolism 
+Rv1740	-	S	Function unknown 
+Rv1741	-	S	Function unknown 
+Rv1743	pknE	L	Replication, recombination and repair 
+Rv1745c	idi	I	Lipid transport and metabolism 
+Rv1746	pknF	L	Replication, recombination and repair 
+Rv1747	-	V	Defense mechanisms 
+Rv1750c	fadD1	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1751	-	C	Energy production and conversion 
+Rv1752	-	R	General function prediction only 
+Rv1755c	plcD	M	Cell wall/membrane/envelope biogenesis 
+Rv1756c	-	L	Replication, recombination and repair 
+Rv1757c	-	L	Replication, recombination and repair 
+Rv1762c	-	S	Function unknown 
+Rv1763	-	L	Replication, recombination and repair 
+Rv1764	-	L	Replication, recombination and repair 
+Rv1765c	-	K	Transcription 
+Rv1765A	-	L	Replication, recombination and repair 
+Rv1766	-	S	Function unknown 
+Rv1767	-	S	Function unknown 
+Rv1769	-	E	Amino acid transport and metabolism 
+Rv1770	-	R	General function prediction only 
+Rv1771	-	C	Energy production and conversion 
+Rv1772	-	T	Signal transduction mechanisms 
+Rv1773c	-	K	Transcription 
+Rv1774	-	C	Energy production and conversion 
+Rv1776c	-	K	Transcription 
+Rv1777	cyp144	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1781c	malQ	G	Carbohydrate transport and metabolism 
+Rv1783	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv1784	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv1785c	cyp143	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1786	-	C	Energy production and conversion 
+Rv1796	mycP5	O	Posttranslational modification, protein turnover, chaperones 
+Rv1798	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv1811	mgtC	S	Function unknown 
+Rv1812c	-	C	Energy production and conversion 
+Rv1814	erg3	I	Lipid transport and metabolism 
+Rv1816	-	K	Transcription 
+Rv1817	-	C	Energy production and conversion 
+Rv1819c	-	R	General function prediction only 
+Rv1820	ilvG	H	Coenzyme transport and metabolism 
+Rv1821	secA2	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv1822	pgsA2	I	Lipid transport and metabolism 
+Rv1823	-	S	Function unknown 
+Rv1824	-	S	Function unknown 
+Rv1825	-	S	Function unknown 
+Rv1826	gcvH	E	Amino acid transport and metabolism 
+Rv1827	cfp17	T	Signal transduction mechanisms 
+Rv1828	-	K	Transcription 
+Rv1829	-	S	Function unknown 
+Rv1830	-	K	Transcription 
+Rv1832	gcvB	E	Amino acid transport and metabolism 
+Rv1832	gcvB	E	Amino acid transport and metabolism 
+Rv1833c	-	R	General function prediction only 
+Rv1834	-	R	General function prediction only 
+Rv1835c	-	R	General function prediction only 
+Rv1837c	glcB	C	Energy production and conversion 
+Rv1838c	-	R	General function prediction only 
+Rv1841c	-	R	General function prediction only 
+Rv1842c	-	R	General function prediction only 
+Rv1843c	guaB1	F	Nucleotide transport and metabolism 
+Rv1843c	guaB1	R	General function prediction only 
+Rv1844c	gnd1	G	Carbohydrate transport and metabolism 
+Rv1845c	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv1846c	-	K	Transcription 
+Rv1847	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1848	ureA	E	Amino acid transport and metabolism 
+Rv1849	ureB	E	Amino acid transport and metabolism 
+Rv1850	ureC	E	Amino acid transport and metabolism 
+Rv1851	ureF	O	Posttranslational modification, protein turnover, chaperones 
+Rv1852	ureG	K	Transcription 
+Rv1854c	ndh	C	Energy production and conversion 
+Rv1855c	-	C	Energy production and conversion 
+Rv1856c	-	R	General function prediction only 
+Rv1857	modA	P	Inorganic ion transport and metabolism 
+Rv1858	modB	P	Inorganic ion transport and metabolism 
+Rv1859	modC	P	Inorganic ion transport and metabolism 
+Rv1859	modC	G	Carbohydrate transport and metabolism 
+Rv1861	-	S	Function unknown 
+Rv1862	adhA	R	General function prediction only 
+Rv1863c	-	R	General function prediction only 
+Rv1864c	-	S	Function unknown 
+Rv1865c	-	R	General function prediction only 
+Rv1866	-	C	Energy production and conversion 
+Rv1867	-	I	Lipid transport and metabolism 
+Rv1868	-	G	Carbohydrate transport and metabolism 
+Rv1869c	-	R	General function prediction only 
+Rv1872c	lldD2	C	Energy production and conversion 
+Rv1873	-	S	Function unknown 
+Rv1876	bfrA	P	Inorganic ion transport and metabolism 
+Rv1877	-	R	General function prediction only 
+Rv1878	glnA3	E	Amino acid transport and metabolism 
+Rv1879	-	R	General function prediction only 
+Rv1880c	cyp140	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1882c	-	R	General function prediction only 
+Rv1885c	-	E	Amino acid transport and metabolism 
+Rv1886c	fbpB	R	General function prediction only 
+Rv1888A	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1889c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1890c	-	S	Function unknown 
+Rv1894c	-	R	General function prediction only 
+Rv1895	-	R	General function prediction only 
+Rv1896c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1897c	-	J	Translation, ribosomal structure and biogenesis 
+Rv1898	-	S	Function unknown 
+Rv1899c	lppD	R	General function prediction only 
+Rv1900c	lipJ	R	General function prediction only 
+Rv1900c	lipJ	T	Signal transduction mechanisms 
+Rv1901	cinA	R	General function prediction only 
+Rv1901	cinA	R	General function prediction only 
+Rv1902c	nanT	R	General function prediction only 
+Rv1903	-	S	Function unknown 
+Rv1904	-	T	Signal transduction mechanisms 
+Rv1905c	aao	E	Amino acid transport and metabolism 
+Rv1908c	katG	P	Inorganic ion transport and metabolism 
+Rv1909c	furA	P	Inorganic ion transport and metabolism 
+Rv1910c	-	R	General function prediction only 
+Rv1911c	lppC	R	General function prediction only 
+Rv1912c	fadB5	R	General function prediction only 
+Rv1913	-	R	General function prediction only 
+Rv1915	aceAa	C	Energy production and conversion 
+Rv1916	aceAb	C	Energy production and conversion 
+Rv1920	-	I	Lipid transport and metabolism 
+Rv1921c	lppF	F	Nucleotide transport and metabolism 
+Rv1922	-	V	Defense mechanisms 
+Rv1923	lipD	V	Defense mechanisms 
+Rv1925	fadD31	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1927	-	S	Function unknown 
+Rv1928c	-	R	General function prediction only 
+Rv1930c	-	R	General function prediction only 
+Rv1931c	-	K	Transcription 
+Rv1931c	-	K	Transcription 
+Rv1932	tpx	O	Posttranslational modification, protein turnover, chaperones 
+Rv1933c	fadE18	I	Lipid transport and metabolism 
+Rv1934c	fadE17	I	Lipid transport and metabolism 
+Rv1935c	echA13	I	Lipid transport and metabolism 
+Rv1936	-	C	Energy production and conversion 
+Rv1937	-	C	Energy production and conversion 
+Rv1937	-	C	Energy production and conversion 
+Rv1938	ephB	R	General function prediction only 
+Rv1939	-	R	General function prediction only 
+Rv1940	ribA1	H	Coenzyme transport and metabolism 
+Rv1940	ribA1	H	Coenzyme transport and metabolism 
+Rv1941	-	R	General function prediction only 
+Rv1942c	-	T	Signal transduction mechanisms 
+Rv1944c	-	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv1953	-	R	General function prediction only 
+Rv1955	-	S	Function unknown 
+Rv1956	-	K	Transcription 
+Rv1959c	-	R	General function prediction only 
+Rv1960c	-	K	Transcription 
+Rv1962c	-	R	General function prediction only 
+Rv1963c	mce3R	K	Transcription 
+Rv1964	yrbE3A	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1965	yrbE3B	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1966	mce3A	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1967	mce3B	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1968	mce3C	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1969	mce3D	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1970	lprM	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1971	mce3F	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv1977	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv1978	-	R	General function prediction only 
+Rv1979c	-	E	Amino acid transport and metabolism 
+Rv1981c	nrdF	F	Nucleotide transport and metabolism 
+Rv1982c	-	S	Function unknown 
+Rv1985c	-	K	Transcription 
+Rv1986	-	R	General function prediction only 
+Rv1988	-	J	Translation, ribosomal structure and biogenesis 
+Rv1989c	-	S	Function unknown 
+Rv1990c	-	K	Transcription 
+Rv1990A	-	R	General function prediction only 
+Rv1991c	-	T	Signal transduction mechanisms 
+Rv1992c	ctpG	P	Inorganic ion transport and metabolism 
+Rv1994c	-	K	Transcription 
+Rv1995	-	S	Function unknown 
+Rv1996	-	T	Signal transduction mechanisms 
+Rv1997	ctpF	P	Inorganic ion transport and metabolism 
+Rv1998c	-	G	Carbohydrate transport and metabolism 
+Rv1999c	-	E	Amino acid transport and metabolism 
+Rv2000	-	R	General function prediction only 
+Rv2000	-	E	Amino acid transport and metabolism 
+Rv2001	-	I	Lipid transport and metabolism 
+Rv2002	fabG3	R	General function prediction only 
+Rv2003c	-	R	General function prediction only 
+Rv2004c	-	R	General function prediction only 
+Rv2004c	-	S	Function unknown 
+Rv2005c	-	T	Signal transduction mechanisms 
+Rv2006	otsB1	R	General function prediction only 
+Rv2006	otsB1	G	Carbohydrate transport and metabolism 
+Rv2006	otsB1	G	Carbohydrate transport and metabolism 
+Rv2007c	fdxA	C	Energy production and conversion 
+Rv2008c	-	R	General function prediction only 
+Rv2008c	-	J	Translation, ribosomal structure and biogenesis 
+Rv2009	-	K	Transcription 
+Rv2010	-	R	General function prediction only 
+Rv2011c	-	K	Transcription 
+Rv2012	-	R	General function prediction only 
+Rv2013	-	L	Replication, recombination and repair 
+Rv2014	-	L	Replication, recombination and repair 
+Rv2017	-	K	Transcription 
+Rv2017	-	E	Amino acid transport and metabolism 
+Rv2018	-	S	Function unknown 
+Rv2020c	-	R	General function prediction only 
+Rv2021c	-	K	Transcription 
+Rv2022c	-	S	Function unknown 
+Rv2024c	-	R	General function prediction only 
+Rv2025c	-	P	Inorganic ion transport and metabolism 
+Rv2026c	-	T	Signal transduction mechanisms 
+Rv2027c	-	T	Signal transduction mechanisms 
+Rv2027c	-	T	Signal transduction mechanisms 
+Rv2028c	-	T	Signal transduction mechanisms 
+Rv2029c	pfkB	G	Carbohydrate transport and metabolism 
+Rv2030c	-	R	General function prediction only 
+Rv2030c	-	R	General function prediction only 
+Rv2031c	hspX	O	Posttranslational modification, protein turnover, chaperones 
+Rv2032	acg	C	Energy production and conversion 
+Rv2034	-	K	Transcription 
+Rv2037c	-	R	General function prediction only 
+Rv2038c	-	G	Carbohydrate transport and metabolism 
+Rv2039c	-	G	Carbohydrate transport and metabolism 
+Rv2040c	-	G	Carbohydrate transport and metabolism 
+Rv2041c	-	G	Carbohydrate transport and metabolism 
+Rv2043c	pncA	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2045c	lipT	I	Lipid transport and metabolism 
+Rv2046	lppI	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2047c	-	G	Carbohydrate transport and metabolism 
+Rv2047c	-	G	Carbohydrate transport and metabolism 
+Rv2048c	pks12	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2051c	ppm1	M	Cell wall/membrane/envelope biogenesis 
+Rv2051c	ppm1	M	Cell wall/membrane/envelope biogenesis 
+Rv2052c	-	R	General function prediction only 
+Rv2054	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2055c	rpsR	J	Translation, ribosomal structure and biogenesis 
+Rv2056c	rpsN	J	Translation, ribosomal structure and biogenesis 
+Rv2057c	rpmG	J	Translation, ribosomal structure and biogenesis 
+Rv2058c	rpmB	J	Translation, ribosomal structure and biogenesis 
+Rv2059	-	P	Inorganic ion transport and metabolism 
+Rv2060	-	P	Inorganic ion transport and metabolism 
+Rv2061c	-	R	General function prediction only 
+Rv2062c	cobN	H	Coenzyme transport and metabolism 
+Rv2064	cobG	P	Inorganic ion transport and metabolism 
+Rv2065	cobH	H	Coenzyme transport and metabolism 
+Rv2066	cobI	H	Coenzyme transport and metabolism 
+Rv2066	cobI	H	Coenzyme transport and metabolism 
+Rv2067c	-	R	General function prediction only 
+Rv2068c	blaC	V	Defense mechanisms 
+Rv2069	sigC	K	Transcription 
+Rv2070c	cobK	H	Coenzyme transport and metabolism 
+Rv2071c	cobM	H	Coenzyme transport and metabolism 
+Rv2072c	cobL	H	Coenzyme transport and metabolism 
+Rv2072c	cobL	H	Coenzyme transport and metabolism 
+Rv2073c	-	R	General function prediction only 
+Rv2086	-	L	Replication, recombination and repair 
+Rv2087	-	L	Replication, recombination and repair 
+Rv2088	pknJ	L	Replication, recombination and repair 
+Rv2089c	pepE	E	Amino acid transport and metabolism 
+Rv2090	-	L	Replication, recombination and repair 
+Rv2092c	helY	L	Replication, recombination and repair 
+Rv2093c	tatC	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv2094c	tatA	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv2095c	-	K	Transcription 
+Rv2096c	-	K	Transcription 
+Rv2101	helZ	L	Replication, recombination and repair 
+Rv2102	-	S	Function unknown 
+Rv2103c	-	R	General function prediction only 
+Rv2103c	-	R	General function prediction only 
+Rv2105	-	L	Replication, recombination and repair 
+Rv2106	-	L	Replication, recombination and repair 
+Rv2109c	prcA	O	Posttranslational modification, protein turnover, chaperones 
+Rv2110c	prcB	O	Posttranslational modification, protein turnover, chaperones 
+Rv2115c	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv2117	-	S	Function unknown 
+Rv2118c	-	J	Translation, ribosomal structure and biogenesis 
+Rv2119	-	L	Replication, recombination and repair 
+Rv2120c	-	S	Function unknown 
+Rv2121c	hisG	E	Amino acid transport and metabolism 
+Rv2122c	hisE	E	Amino acid transport and metabolism 
+Rv2124c	metH	E	Amino acid transport and metabolism 
+Rv2124c	metH	E	Amino acid transport and metabolism 
+Rv2125	-	R	General function prediction only 
+Rv2127	ansP1	E	Amino acid transport and metabolism 
+Rv2129c	-	R	General function prediction only 
+Rv2130c	cysS	J	Translation, ribosomal structure and biogenesis 
+Rv2131c	cysQ	P	Inorganic ion transport and metabolism 
+Rv2135c	-	G	Carbohydrate transport and metabolism 
+Rv2136c	uppP	V	Defense mechanisms 
+Rv2139	pyrD	F	Nucleotide transport and metabolism 
+Rv2140c	TB18.6	R	General function prediction only 
+Rv2141c	-	E	Amino acid transport and metabolism 
+Rv2143	-	R	General function prediction only 
+Rv2145c	wag31	D	Cell cycle control, cell division, chromosome partitioning 
+Rv2146c	-	S	Function unknown 
+Rv2147c	-	S	Function unknown 
+Rv2148c	-	R	General function prediction only 
+Rv2149c	yfiH	S	Function unknown 
+Rv2150c	ftsZ	D	Cell cycle control, cell division, chromosome partitioning 
+Rv2151c	ftsQ	M	Cell wall/membrane/envelope biogenesis 
+Rv2152c	murC	M	Cell wall/membrane/envelope biogenesis 
+Rv2153c	murG	M	Cell wall/membrane/envelope biogenesis 
+Rv2154c	ftsW	D	Cell cycle control, cell division, chromosome partitioning 
+Rv2155c	murD	M	Cell wall/membrane/envelope biogenesis 
+Rv2156c	mraY	M	Cell wall/membrane/envelope biogenesis 
+Rv2157c	murF	M	Cell wall/membrane/envelope biogenesis 
+Rv2158c	murE	M	Cell wall/membrane/envelope biogenesis 
+Rv2160A	-	K	Transcription 
+Rv2161c	-	C	Energy production and conversion 
+Rv2163c	pbpB	M	Cell wall/membrane/envelope biogenesis 
+Rv2165c	mraW	M	Cell wall/membrane/envelope biogenesis 
+Rv2166c	-	S	Function unknown 
+Rv2167c	-	L	Replication, recombination and repair 
+Rv2168c	-	L	Replication, recombination and repair 
+Rv2170	-	R	General function prediction only 
+Rv2173	idsA2	H	Coenzyme transport and metabolism 
+Rv2176	pknL	L	Replication, recombination and repair 
+Rv2177c	-	L	Replication, recombination and repair 
+Rv2178c	aroG	E	Amino acid transport and metabolism 
+Rv2182c	-	I	Lipid transport and metabolism 
+Rv2184c	-	P	Inorganic ion transport and metabolism 
+Rv2187	fadD15	I	Lipid transport and metabolism 
+Rv2188c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv2190c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv2191	-	L	Replication, recombination and repair 
+Rv2191	-	L	Replication, recombination and repair 
+Rv2192c	trpD	E	Amino acid transport and metabolism 
+Rv2193	ctaE	C	Energy production and conversion 
+Rv2194	qcrC	C	Energy production and conversion 
+Rv2195	qcrA	C	Energy production and conversion 
+Rv2196	qcrB	C	Energy production and conversion 
+Rv2200c	ctaC	C	Energy production and conversion 
+Rv2201	asnB	E	Amino acid transport and metabolism 
+Rv2202c	cbhK	G	Carbohydrate transport and metabolism 
+Rv2204c	-	S	Function unknown 
+Rv2205c	-	G	Carbohydrate transport and metabolism 
+Rv2207	cobT	H	Coenzyme transport and metabolism 
+Rv2208	cobS	H	Coenzyme transport and metabolism 
+Rv2210c	ilvE	H	Coenzyme transport and metabolism 
+Rv2211c	gcvT	E	Amino acid transport and metabolism 
+Rv2212	-	T	Signal transduction mechanisms 
+Rv2213	pepB	E	Amino acid transport and metabolism 
+Rv2214c	ephD	R	General function prediction only 
+Rv2214c	ephD	R	General function prediction only 
+Rv2215	dlaT	C	Energy production and conversion 
+Rv2216	-	R	General function prediction only 
+Rv2217	lipB	H	Coenzyme transport and metabolism 
+Rv2218	lipA	H	Coenzyme transport and metabolism 
+Rv2220	glnA1	E	Amino acid transport and metabolism 
+Rv2221c	glnE	T	Signal transduction mechanisms 
+Rv2222c	glnA2	E	Amino acid transport and metabolism 
+Rv2223c	-	R	General function prediction only 
+Rv2224c	-	R	General function prediction only 
+Rv2225	panB	H	Coenzyme transport and metabolism 
+Rv2226	-	S	Function unknown 
+Rv2227	-	S	Function unknown 
+Rv2228c	-	L	Replication, recombination and repair 
+Rv2228c	-	G	Carbohydrate transport and metabolism 
+Rv2229c	-	R	General function prediction only 
+Rv2230c	-	S	Function unknown 
+Rv2230c	-	S	Function unknown 
+Rv2231c	cobC	E	Amino acid transport and metabolism 
+Rv2232	-	R	General function prediction only 
+Rv2234	ptpA	T	Signal transduction mechanisms 
+Rv2235	-	S	Function unknown 
+Rv2236c	cobD	H	Coenzyme transport and metabolism 
+Rv2237	-	S	Function unknown 
+Rv2238c	ahpE	O	Posttranslational modification, protein turnover, chaperones 
+Rv2241	aceE	C	Energy production and conversion 
+Rv2242	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2243	fabD	I	Lipid transport and metabolism 
+Rv2244	acpP	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2245	kasA	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2246	kasB	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2247	accD6	I	Lipid transport and metabolism 
+Rv2249c	glpD1	C	Energy production and conversion 
+Rv2250c	-	K	Transcription 
+Rv2250A	-	C	Energy production and conversion 
+Rv2251	-	C	Energy production and conversion 
+Rv2252	-	R	General function prediction only 
+Rv2257c	-	V	Defense mechanisms 
+Rv2258c	-	R	General function prediction only 
+Rv2259	adhE2	C	Energy production and conversion 
+Rv2260	-	R	General function prediction only 
+Rv2261c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv2262c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv2263	-	R	General function prediction only 
+Rv2264c	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv2265	-	R	General function prediction only 
+Rv2266	cyp124	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2267c	-	R	General function prediction only 
+Rv2268c	cyp128	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2272	-	S	Function unknown 
+Rv2276	cyp121	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2277c	-	C	Energy production and conversion 
+Rv2278	-	L	Replication, recombination and repair 
+Rv2279	-	L	Replication, recombination and repair 
+Rv2280	-	C	Energy production and conversion 
+Rv2281	pitB	P	Inorganic ion transport and metabolism 
+Rv2282c	-	K	Transcription 
+Rv2284	lipM	I	Lipid transport and metabolism 
+Rv2286c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2287	yjcE	P	Inorganic ion transport and metabolism 
+Rv2289	cdh	I	Lipid transport and metabolism 
+Rv2291	sseB	P	Inorganic ion transport and metabolism 
+Rv2292c	-	F	Nucleotide transport and metabolism 
+Rv2293c	-	F	Nucleotide transport and metabolism 
+Rv2294	-	E	Amino acid transport and metabolism 
+Rv2295	-	S	Function unknown 
+Rv2296	-	R	General function prediction only 
+Rv2298	-	C	Energy production and conversion 
+Rv2299c	htpG	O	Posttranslational modification, protein turnover, chaperones 
+Rv2300c	-	R	General function prediction only 
+Rv2303c	-	R	General function prediction only 
+Rv2306A	-	S	Function unknown 
+Rv2306A	-	V	Defense mechanisms 
+Rv2306B	-	S	Function unknown 
+Rv2307c	-	R	General function prediction only 
+Rv2308	-	S	Function unknown 
+Rv2309c	-	L	Replication, recombination and repair 
+Rv2310	-	P	Inorganic ion transport and metabolism 
+Rv2311	-	L	Replication, recombination and repair 
+Rv2313c	-	S	Function unknown 
+Rv2314c	-	R	General function prediction only 
+Rv2315c	-	R	General function prediction only 
+Rv2316	uspA	G	Carbohydrate transport and metabolism 
+Rv2317	uspB	G	Carbohydrate transport and metabolism 
+Rv2318	uspC	G	Carbohydrate transport and metabolism 
+Rv2319c	-	T	Signal transduction mechanisms 
+Rv2320c	rocE	E	Amino acid transport and metabolism 
+Rv2321c	rocD2	E	Amino acid transport and metabolism 
+Rv2322c	rocD1	E	Amino acid transport and metabolism 
+Rv2323c	-	E	Amino acid transport and metabolism 
+Rv2324	-	K	Transcription 
+Rv2325c	-	P	Inorganic ion transport and metabolism 
+Rv2326c	-	P	Inorganic ion transport and metabolism 
+Rv2327	-	K	Transcription 
+Rv2329c	narK1	P	Inorganic ion transport and metabolism 
+Rv2331	-	C	Energy production and conversion 
+Rv2331	-	P	Inorganic ion transport and metabolism 
+Rv2331A	-	P	Inorganic ion transport and metabolism 
+Rv2332	mez	C	Energy production and conversion 
+Rv2333c	-	R	General function prediction only 
+Rv2334	cysK1	E	Amino acid transport and metabolism 
+Rv2335	cysE	E	Amino acid transport and metabolism 
+Rv2336	-	J	Translation, ribosomal structure and biogenesis 
+Rv2338c	moeW	H	Coenzyme transport and metabolism 
+Rv2339	mmpL9	R	General function prediction only 
+Rv2343c	dnaG	L	Replication, recombination and repair 
+Rv2344c	dgt	F	Nucleotide transport and metabolism 
+Rv2349c	plcC	M	Cell wall/membrane/envelope biogenesis 
+Rv2350c	plcB	M	Cell wall/membrane/envelope biogenesis 
+Rv2351c	plcA	M	Cell wall/membrane/envelope biogenesis 
+Rv2354	-	L	Replication, recombination and repair 
+Rv2355	-	L	Replication, recombination and repair 
+Rv2357c	glyS	J	Translation, ribosomal structure and biogenesis 
+Rv2358	-	K	Transcription 
+Rv2359	furB	P	Inorganic ion transport and metabolism 
+Rv2361c	-	I	Lipid transport and metabolism 
+Rv2362c	recO	L	Replication, recombination and repair 
+Rv2363	amiA2	J	Translation, ribosomal structure and biogenesis 
+Rv2364c	era	R	General function prediction only 
+Rv2366c	-	R	General function prediction only 
+Rv2367c	-	R	General function prediction only 
+Rv2368c	phoH1	T	Signal transduction mechanisms 
+Rv2372c	-	S	Function unknown 
+Rv2373c	dnaJ2	O	Posttranslational modification, protein turnover, chaperones 
+Rv2374c	hrcA	K	Transcription 
+Rv2377c	mbtH	S	Function unknown 
+Rv2378c	mbtG	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2379c	mbtF	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2380c	mbtE	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2381c	mbtD	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2382c	mbtC	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2383c	mbtB	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2383c	mbtB	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2384	mbtA	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2385	mbtJ	I	Lipid transport and metabolism 
+Rv2386c	mbtI	H	Coenzyme transport and metabolism 
+Rv2387	-	R	General function prediction only 
+Rv2388c	hemN	H	Coenzyme transport and metabolism 
+Rv2391	nirA	P	Inorganic ion transport and metabolism 
+Rv2392	cysH	H	Coenzyme transport and metabolism 
+Rv2393	-	S	Function unknown 
+Rv2394	ggtB	E	Amino acid transport and metabolism 
+Rv2395	-	S	Function unknown 
+Rv2397c	cysA1	P	Inorganic ion transport and metabolism 
+Rv2398c	cysW	P	Inorganic ion transport and metabolism 
+Rv2399c	cysT	O	Posttranslational modification, protein turnover, chaperones 
+Rv2400c	subI	P	Inorganic ion transport and metabolism 
+Rv2402	-	G	Carbohydrate transport and metabolism 
+Rv2404c	lepA	M	Cell wall/membrane/envelope biogenesis 
+Rv2406c	-	R	General function prediction only 
+Rv2407	-	R	General function prediction only 
+Rv2409c	-	E	Amino acid transport and metabolism 
+Rv2410c	-	S	Function unknown 
+Rv2411c	-	S	Function unknown 
+Rv2412	rpsT	J	Translation, ribosomal structure and biogenesis 
+Rv2413c	-	L	Replication, recombination and repair 
+Rv2414c	-	R	General function prediction only 
+Rv2415c	-	L	Replication, recombination and repair 
+Rv2416c	eis	R	General function prediction only 
+Rv2417c	-	S	Function unknown 
+Rv2419c	-	G	Carbohydrate transport and metabolism 
+Rv2420c	-	S	Function unknown 
+Rv2421c	nadD	H	Coenzyme transport and metabolism 
+Rv2423	-	R	General function prediction only 
+Rv2424c	-	L	Replication, recombination and repair 
+Rv2425c	-	R	General function prediction only 
+Rv2426c	-	R	General function prediction only 
+Rv2427c	proA	E	Amino acid transport and metabolism 
+Rv2428	ahpC	O	Posttranslational modification, protein turnover, chaperones 
+Rv2429	ahpD	S	Function unknown 
+Rv2434c	-	T	Signal transduction mechanisms 
+Rv2434c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv2435c	-	T	Signal transduction mechanisms 
+Rv2435c	-	T	Signal transduction mechanisms 
+Rv2436	rbsK	G	Carbohydrate transport and metabolism 
+Rv2437	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv2438c	nadE	H	Coenzyme transport and metabolism 
+Rv2438c	nadE	R	General function prediction only 
+Rv2439c	proB	E	Amino acid transport and metabolism 
+Rv2440c	obgE	R	General function prediction only 
+Rv2441c	rpmA	J	Translation, ribosomal structure and biogenesis 
+Rv2442c	rplU	J	Translation, ribosomal structure and biogenesis 
+Rv2443	dctA	C	Energy production and conversion 
+Rv2444c	rne	J	Translation, ribosomal structure and biogenesis 
+Rv2445c	ndk	F	Nucleotide transport and metabolism 
+Rv2447c	folC	H	Coenzyme transport and metabolism 
+Rv2448c	valS	J	Translation, ribosomal structure and biogenesis 
+Rv2449c	-	S	Function unknown 
+Rv2453c	mobA	H	Coenzyme transport and metabolism 
+Rv2454c	-	C	Energy production and conversion 
+Rv2455c	-	C	Energy production and conversion 
+Rv2455c	-	C	Energy production and conversion 
+Rv2456c	-	R	General function prediction only 
+Rv2457c	clpX	O	Posttranslational modification, protein turnover, chaperones 
+Rv2458	mmuM	E	Amino acid transport and metabolism 
+Rv2459	-	R	General function prediction only 
+Rv2460c	clpP2	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv2461c	clpP	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv2462c	tig	O	Posttranslational modification, protein turnover, chaperones 
+Rv2463	lipP	V	Defense mechanisms 
+Rv2464c	-	L	Replication, recombination and repair 
+Rv2465c	-	G	Carbohydrate transport and metabolism 
+Rv2466c	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv2467	pepN	E	Amino acid transport and metabolism 
+Rv2469c	-	V	Defense mechanisms 
+Rv2470	glbO	R	General function prediction only 
+Rv2471	aglA	G	Carbohydrate transport and metabolism 
+Rv2475c	-	R	General function prediction only 
+Rv2476c	gdh	E	Amino acid transport and metabolism 
+Rv2477c	-	R	General function prediction only 
+Rv2478c	-	L	Replication, recombination and repair 
+Rv2479c	-	L	Replication, recombination and repair 
+Rv2480c	-	L	Replication, recombination and repair 
+Rv2482c	plsB2	I	Lipid transport and metabolism 
+Rv2483c	plsC	I	Lipid transport and metabolism 
+Rv2483c	plsC	E	Amino acid transport and metabolism 
+Rv2485c	lipQ	I	Lipid transport and metabolism 
+Rv2486	echA14	I	Lipid transport and metabolism 
+Rv2488c	-	T	Signal transduction mechanisms 
+Rv2488c	-	K	Transcription 
+Rv2488c	-	R	General function prediction only 
+Rv2491	-	R	General function prediction only 
+Rv2492	-	F	Nucleotide transport and metabolism 
+Rv2494	-	R	General function prediction only 
+Rv2495c	pdhC	C	Energy production and conversion 
+Rv2496c	pdhB	C	Energy production and conversion 
+Rv2497c	pdhA	C	Energy production and conversion 
+Rv2498c	citE	G	Carbohydrate transport and metabolism 
+Rv2499c	-	I	Lipid transport and metabolism 
+Rv2500c	fadE19	I	Lipid transport and metabolism 
+Rv2501c	accA1	I	Lipid transport and metabolism 
+Rv2502c	accD1	I	Lipid transport and metabolism 
+Rv2503c	scoB	I	Lipid transport and metabolism 
+Rv2504c	scoA	I	Lipid transport and metabolism 
+Rv2505c	fadD35	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2506	-	K	Transcription 
+Rv2508c	-	R	General function prediction only 
+Rv2509	-	R	General function prediction only 
+Rv2510c	-	R	General function prediction only 
+Rv2511	orn	A	RNA processing and modification 
+Rv2512c	-	L	Replication, recombination and repair 
+Rv2515c	-	K	Transcription 
+Rv2515c	-	E	Amino acid transport and metabolism 
+Rv2518c	lppS	S	Function unknown 
+Rv2521	bcp	O	Posttranslational modification, protein turnover, chaperones 
+Rv2522c	-	E	Amino acid transport and metabolism 
+Rv2523c	acpS	I	Lipid transport and metabolism 
+Rv2524c	fas	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2524c	fas	I	Lipid transport and metabolism 
+Rv2524c	fas	I	Lipid transport and metabolism 
+Rv2524c	fas	I	Lipid transport and metabolism 
+Rv2524c	fas	I	Lipid transport and metabolism 
+Rv2527	-	R	General function prediction only 
+Rv2528c	mrr	V	Defense mechanisms 
+Rv2529	-	L	Replication, recombination and repair 
+Rv2530c	-	R	General function prediction only 
+Rv2531c	-	E	Amino acid transport and metabolism 
+Rv2532c	-	R	General function prediction only 
+Rv2533c	nusB	K	Transcription 
+Rv2534c	efp	J	Translation, ribosomal structure and biogenesis 
+Rv2535c	pepQ	E	Amino acid transport and metabolism 
+Rv2537c	aroD	E	Amino acid transport and metabolism 
+Rv2538c	aroB	E	Amino acid transport and metabolism 
+Rv2539c	aroK	E	Amino acid transport and metabolism 
+Rv2540c	aroF	E	Amino acid transport and metabolism 
+Rv2541	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv2548	-	R	General function prediction only 
+Rv2549c	-	R	General function prediction only 
+Rv2551c	-	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv2552c	aroE	E	Amino acid transport and metabolism 
+Rv2553c	-	R	General function prediction only 
+Rv2554c	-	L	Replication, recombination and repair 
+Rv2555c	alaS	J	Translation, ribosomal structure and biogenesis 
+Rv2556c	-	S	Function unknown 
+Rv2559c	-	L	Replication, recombination and repair 
+Rv2561	-	E	Amino acid transport and metabolism 
+Rv2563	-	V	Defense mechanisms 
+Rv2564	glnQ	V	Defense mechanisms 
+Rv2565	-	T	Signal transduction mechanisms 
+Rv2565	-	R	General function prediction only 
+Rv2566	-	E	Amino acid transport and metabolism 
+Rv2566	-	S	Function unknown 
+Rv2567	-	S	Function unknown 
+Rv2567	-	S	Function unknown 
+Rv2568c	-	S	Function unknown 
+Rv2569c	-	E	Amino acid transport and metabolism 
+Rv2570	-	S	Function unknown 
+Rv2571c	-	S	Function unknown 
+Rv2572c	aspS	J	Translation, ribosomal structure and biogenesis 
+Rv2573	-	H	Coenzyme transport and metabolism 
+Rv2575	-	R	General function prediction only 
+Rv2577	-	R	General function prediction only 
+Rv2577	-	P	Inorganic ion transport and metabolism 
+Rv2578c	-	L	Replication, recombination and repair 
+Rv2579	dhaA	R	General function prediction only 
+Rv2580c	hisS	J	Translation, ribosomal structure and biogenesis 
+Rv2581c	-	R	General function prediction only 
+Rv2582	ppiB	O	Posttranslational modification, protein turnover, chaperones 
+Rv2583c	relA	K	Transcription 
+Rv2584c	apt	F	Nucleotide transport and metabolism 
+Rv2585c	-	E	Amino acid transport and metabolism 
+Rv2586c	secF	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv2587c	secD	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv2588c	yajC	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv2589	gabT	E	Amino acid transport and metabolism 
+Rv2590	fadD9	I	Lipid transport and metabolism 
+Rv2590	fadD9	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2592c	ruvB	L	Replication, recombination and repair 
+Rv2593c	ruvA	L	Replication, recombination and repair 
+Rv2594c	ruvC	L	Replication, recombination and repair 
+Rv2595	-	K	Transcription 
+Rv2599	-	M	Cell wall/membrane/envelope biogenesis 
+Rv2601	speE	R	General function prediction only 
+Rv2601A	-	R	General function prediction only 
+Rv2603c	-	S	Function unknown 
+Rv2604c	-	H	Coenzyme transport and metabolism 
+Rv2605c	tesB2	I	Lipid transport and metabolism 
+Rv2606c	-	H	Coenzyme transport and metabolism 
+Rv2607	pdxH	H	Coenzyme transport and metabolism 
+Rv2610c	pimA	M	Cell wall/membrane/envelope biogenesis 
+Rv2611c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv2612c	pgsA1	I	Lipid transport and metabolism 
+Rv2613c	-	R	General function prediction only 
+Rv2614c	thrS	J	Translation, ribosomal structure and biogenesis 
+Rv2614A	-	G	Carbohydrate transport and metabolism 
+Rv2616	-	S	Function unknown 
+Rv2618	-	K	Transcription 
+Rv2619c	-	S	Function unknown 
+Rv2621c	-	K	Transcription 
+Rv2622	-	R	General function prediction only 
+Rv2623	TB31.7	T	Signal transduction mechanisms 
+Rv2624c	-	T	Signal transduction mechanisms 
+Rv2625c	-	R	General function prediction only 
+Rv2625c	-	R	General function prediction only 
+Rv2626c	-	R	General function prediction only 
+Rv2629	-	L	Replication, recombination and repair 
+Rv2629	-	J	Translation, ribosomal structure and biogenesis 
+Rv2630	-	S	Function unknown 
+Rv2631	-	S	Function unknown 
+Rv2636	-	V	Defense mechanisms 
+Rv2637	dedA	S	Function unknown 
+Rv2638	-	T	Signal transduction mechanisms 
+Rv2639c	-	S	Function unknown 
+Rv2640c	-	K	Transcription 
+Rv2641	cadI	E	Amino acid transport and metabolism 
+Rv2642	-	K	Transcription 
+Rv2643	arsC	T	Signal transduction mechanisms 
+Rv2643	arsC	P	Inorganic ion transport and metabolism 
+Rv2646	-	L	Replication, recombination and repair 
+Rv2648	-	L	Replication, recombination and repair 
+Rv2649	-	L	Replication, recombination and repair 
+Rv2650c	-	R	General function prediction only 
+Rv2651c	-	R	General function prediction only 
+Rv2653c	-	K	Transcription 
+Rv2659c	-	L	Replication, recombination and repair 
+Rv2666	-	L	Replication, recombination and repair 
+Rv2667	clpC2	O	Posttranslational modification, protein turnover, chaperones 
+Rv2669	-	R	General function prediction only 
+Rv2670c	-	R	General function prediction only 
+Rv2671	ribD	H	Coenzyme transport and metabolism 
+Rv2672	-	R	General function prediction only 
+Rv2674	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv2675c	-	R	General function prediction only 
+Rv2676c	-	S	Function unknown 
+Rv2677c	hemY	H	Coenzyme transport and metabolism 
+Rv2678c	hemE	H	Coenzyme transport and metabolism 
+Rv2679	echA15	I	Lipid transport and metabolism 
+Rv2680	-	P	Inorganic ion transport and metabolism 
+Rv2681	-	J	Translation, ribosomal structure and biogenesis 
+Rv2682c	dxs1	I	Lipid transport and metabolism 
+Rv2683	-	R	General function prediction only 
+Rv2684	arsA	P	Inorganic ion transport and metabolism 
+Rv2685	arsB1	P	Inorganic ion transport and metabolism 
+Rv2688c	-	V	Defense mechanisms 
+Rv2689c	-	J	Translation, ribosomal structure and biogenesis 
+Rv2690c	-	E	Amino acid transport and metabolism 
+Rv2691	ceoB	P	Inorganic ion transport and metabolism 
+Rv2692	ceoC	P	Inorganic ion transport and metabolism 
+Rv2696c	-	J	Translation, ribosomal structure and biogenesis 
+Rv2697c	dut	F	Nucleotide transport and metabolism 
+Rv2701c	suhB	G	Carbohydrate transport and metabolism 
+Rv2702	ppgK	G	Carbohydrate transport and metabolism 
+Rv2703	sigA	K	Transcription 
+Rv2704	-	J	Translation, ribosomal structure and biogenesis 
+Rv2705c	-	S	Function unknown 
+Rv2707	-	S	Function unknown 
+Rv2710	sigB	K	Transcription 
+Rv2711	ideR	K	Transcription 
+Rv2713	sthA	C	Energy production and conversion 
+Rv2715	-	R	General function prediction only 
+Rv2716	-	R	General function prediction only 
+Rv2718c	-	K	Transcription 
+Rv2719c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv2720	lexA	T	Signal transduction mechanisms 
+Rv2721c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv2723	-	P	Inorganic ion transport and metabolism 
+Rv2724c	fadE20	I	Lipid transport and metabolism 
+Rv2725c	hflX	R	General function prediction only 
+Rv2726c	dapF	E	Amino acid transport and metabolism 
+Rv2727c	miaA	J	Translation, ribosomal structure and biogenesis 
+Rv2729c	-	R	General function prediction only 
+Rv2733c	-	J	Translation, ribosomal structure and biogenesis 
+Rv2734	-	S	Function unknown 
+Rv2736c	recX	R	General function prediction only 
+Rv2737c	recA	L	Replication, recombination and repair 
+Rv2737c	recA	L	Replication, recombination and repair 
+Rv2739c	-	C	Energy production and conversion 
+Rv2740	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2744c	35kd_ag	T	Signal transduction mechanisms 
+Rv2745c	-	K	Transcription 
+Rv2746c	pgsA3	I	Lipid transport and metabolism 
+Rv2747	-	E	Amino acid transport and metabolism 
+Rv2748c	ftsK	D	Cell cycle control, cell division, chromosome partitioning 
+Rv2749	-	S	Function unknown 
+Rv2750	-	R	General function prediction only 
+Rv2751	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2752c	-	R	General function prediction only 
+Rv2753c	dapA	M	Cell wall/membrane/envelope biogenesis 
+Rv2754c	thyX	F	Nucleotide transport and metabolism 
+Rv2755c	hsdS.1	V	Defense mechanisms 
+Rv2756c	hsdM	V	Defense mechanisms 
+Rv2757c	-	R	General function prediction only 
+Rv2759c	-	S	Function unknown 
+Rv2761c	hsdS	V	Defense mechanisms 
+Rv2762c	-	S	Function unknown 
+Rv2763c	dfrA	H	Coenzyme transport and metabolism 
+Rv2764c	thyA	F	Nucleotide transport and metabolism 
+Rv2765	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2766c	fabG	R	General function prediction only 
+Rv2771c	-	R	General function prediction only 
+Rv2773c	dapB	E	Amino acid transport and metabolism 
+Rv2775	-	R	General function prediction only 
+Rv2776c	-	C	Energy production and conversion 
+Rv2777c	-	R	General function prediction only 
+Rv2779c	-	K	Transcription 
+Rv2780	ald	E	Amino acid transport and metabolism 
+Rv2781c	-	R	General function prediction only 
+Rv2782c	pepR	R	General function prediction only 
+Rv2783c	gpsI	J	Translation, ribosomal structure and biogenesis 
+Rv2785c	rpsO	J	Translation, ribosomal structure and biogenesis 
+Rv2786c	ribF	H	Coenzyme transport and metabolism 
+Rv2787	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv2788	sirR	K	Transcription 
+Rv2789c	fadE21	I	Lipid transport and metabolism 
+Rv2790c	ltp1	I	Lipid transport and metabolism 
+Rv2791c	-	L	Replication, recombination and repair 
+Rv2792c	-	L	Replication, recombination and repair 
+Rv2793c	truB	J	Translation, ribosomal structure and biogenesis 
+Rv2794c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2795c	-	R	General function prediction only 
+Rv2800	-	R	General function prediction only 
+Rv2801c	-	T	Signal transduction mechanisms 
+Rv2802c	-	S	Function unknown 
+Rv2803	-	S	Function unknown 
+Rv2810c	-	L	Replication, recombination and repair 
+Rv2812	-	L	Replication, recombination and repair 
+Rv2813	-	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv2814c	-	L	Replication, recombination and repair 
+Rv2815c	-	L	Replication, recombination and repair 
+Rv2816c	-	L	Replication, recombination and repair 
+Rv2817c	-	L	Replication, recombination and repair 
+Rv2819c	-	L	Replication, recombination and repair 
+Rv2820c	-	L	Replication, recombination and repair 
+Rv2821c	-	L	Replication, recombination and repair 
+Rv2823c	-	R	General function prediction only 
+Rv2824c	-	S	Function unknown 
+Rv2825c	-	S	Function unknown 
+Rv2826c	-	S	Function unknown 
+Rv2827c	-	J	Translation, ribosomal structure and biogenesis 
+Rv2828c	-	S	Function unknown 
+Rv2829c	-	S	Function unknown 
+Rv2830c	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv2831	echA16	I	Lipid transport and metabolism 
+Rv2832c	ugpC	G	Carbohydrate transport and metabolism 
+Rv2833c	ugpB	G	Carbohydrate transport and metabolism 
+Rv2834c	ugpE	G	Carbohydrate transport and metabolism 
+Rv2835c	ugpA	G	Carbohydrate transport and metabolism 
+Rv2836c	dinF	V	Defense mechanisms 
+Rv2837c	-	R	General function prediction only 
+Rv2838c	rbfA	J	Translation, ribosomal structure and biogenesis 
+Rv2839c	infB	J	Translation, ribosomal structure and biogenesis 
+Rv2840c	-	K	Transcription 
+Rv2841c	nusA	K	Transcription 
+Rv2842c	-	S	Function unknown 
+Rv2845c	proS	J	Translation, ribosomal structure and biogenesis 
+Rv2846c	efpA	R	General function prediction only 
+Rv2847c	cysG	H	Coenzyme transport and metabolism 
+Rv2847c	cysG	H	Coenzyme transport and metabolism 
+Rv2848c	cobB	H	Coenzyme transport and metabolism 
+Rv2849c	cobO	H	Coenzyme transport and metabolism 
+Rv2850c	-	H	Coenzyme transport and metabolism 
+Rv2850c	-	H	Coenzyme transport and metabolism 
+Rv2851c	-	R	General function prediction only 
+Rv2852c	mqo	R	General function prediction only 
+Rv2854	-	I	Lipid transport and metabolism 
+Rv2855	mtr	C	Energy production and conversion 
+Rv2856	nicT	P	Inorganic ion transport and metabolism 
+Rv2857c	-	R	General function prediction only 
+Rv2858c	aldC	C	Energy production and conversion 
+Rv2859c	-	R	General function prediction only 
+Rv2860c	glnA4	E	Amino acid transport and metabolism 
+Rv2861c	mapB	J	Translation, ribosomal structure and biogenesis 
+Rv2863	-	R	General function prediction only 
+Rv2864c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv2865	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv2866	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv2867c	-	R	General function prediction only 
+Rv2868c	ispG	I	Lipid transport and metabolism 
+Rv2869c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv2870c	dxr	I	Lipid transport and metabolism 
+Rv2873	mpt83	M	Cell wall/membrane/envelope biogenesis 
+Rv2874	dipZ	C	Energy production and conversion 
+Rv2874	dipZ	O	Posttranslational modification, protein turnover, chaperones 
+Rv2875	mpt70	M	Cell wall/membrane/envelope biogenesis 
+Rv2878c	mpt53	C	Energy production and conversion 
+Rv2879c	-	R	General function prediction only 
+Rv2880c	-	R	General function prediction only 
+Rv2881c	cdsA	I	Lipid transport and metabolism 
+Rv2882c	frr	J	Translation, ribosomal structure and biogenesis 
+Rv2883c	pyrH	F	Nucleotide transport and metabolism 
+Rv2884	-	K	Transcription 
+Rv2885c	-	L	Replication, recombination and repair 
+Rv2886c	-	L	Replication, recombination and repair 
+Rv2887	-	K	Transcription 
+Rv2888c	amiC	J	Translation, ribosomal structure and biogenesis 
+Rv2889c	tsf	J	Translation, ribosomal structure and biogenesis 
+Rv2890c	rpsB	J	Translation, ribosomal structure and biogenesis 
+Rv2891	-	M	Cell wall/membrane/envelope biogenesis 
+Rv2893	-	C	Energy production and conversion 
+Rv2894c	xerC	L	Replication, recombination and repair 
+Rv2895c	viuB	P	Inorganic ion transport and metabolism 
+Rv2896c	-	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv2897c	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv2898c	-	L	Replication, recombination and repair 
+Rv2899c	fdhD	C	Energy production and conversion 
+Rv2900c	fdhF	C	Energy production and conversion 
+Rv2902c	rnhB	L	Replication, recombination and repair 
+Rv2903c	lepB	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv2904c	rplS	J	Translation, ribosomal structure and biogenesis 
+Rv2906c	trmD	J	Translation, ribosomal structure and biogenesis 
+Rv2907c	rimM	J	Translation, ribosomal structure and biogenesis 
+Rv2908c	-	R	General function prediction only 
+Rv2909c	rpsP	J	Translation, ribosomal structure and biogenesis 
+Rv2911	dacB2	M	Cell wall/membrane/envelope biogenesis 
+Rv2912c	-	K	Transcription 
+Rv2913c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2914c	pknI	L	Replication, recombination and repair 
+Rv2915c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2916c	ffh	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv2917	-	L	Replication, recombination and repair 
+Rv2918c	glnD	O	Posttranslational modification, protein turnover, chaperones 
+Rv2919c	glnB	E	Amino acid transport and metabolism 
+Rv2920c	amt	P	Inorganic ion transport and metabolism 
+Rv2921c	ftsY	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv2922c	smc	D	Cell cycle control, cell division, chromosome partitioning 
+Rv2922A	acyP	C	Energy production and conversion 
+Rv2923c	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv2924c	fpg	L	Replication, recombination and repair 
+Rv2925c	rnc	K	Transcription 
+Rv2926c	-	R	General function prediction only 
+Rv2927c	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv2928	tesA	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2930	fadD26	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2931	ppsA	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2932	ppsB	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2933	ppsC	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2934	ppsD	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2935	ppsE	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2935	ppsE	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2936	drrA	V	Defense mechanisms 
+Rv2937	drrB	V	Defense mechanisms 
+Rv2938	drrC	V	Defense mechanisms 
+Rv2939	papA5	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2940c	mas	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2941	fadD28	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2942	mmpL7	R	General function prediction only 
+Rv2943	-	L	Replication, recombination and repair 
+Rv2943A	-	L	Replication, recombination and repair 
+Rv2944	-	L	Replication, recombination and repair 
+Rv2946c	pks1	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2947c	pks15	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2948c	fadD22	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2948c	fadD22	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2949c	-	H	Coenzyme transport and metabolism 
+Rv2950c	fadD29	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2951c	-	C	Energy production and conversion 
+Rv2952	-	R	General function prediction only 
+Rv2953	-	S	Function unknown 
+Rv2954c	-	R	General function prediction only 
+Rv2955c	-	R	General function prediction only 
+Rv2956	-	R	General function prediction only 
+Rv2957	-	M	Cell wall/membrane/envelope biogenesis 
+Rv2958c	-	C	Energy production and conversion 
+Rv2959c	-	V	Defense mechanisms 
+Rv2961	-	L	Replication, recombination and repair 
+Rv2962c	-	C	Energy production and conversion 
+Rv2963	-	R	General function prediction only 
+Rv2964	purU	F	Nucleotide transport and metabolism 
+Rv2965c	coaD	H	Coenzyme transport and metabolism 
+Rv2966c	-	L	Replication, recombination and repair 
+Rv2967c	pca	C	Energy production and conversion 
+Rv2968c	-	S	Function unknown 
+Rv2969c	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv2970c	lipN	I	Lipid transport and metabolism 
+Rv2970A	-	R	General function prediction only 
+Rv2971	-	R	General function prediction only 
+Rv2973c	recG	K	Transcription 
+Rv2974c	-	R	General function prediction only 
+Rv2975c	-	R	General function prediction only 
+Rv2976c	ung	L	Replication, recombination and repair 
+Rv2977c	thiL	H	Coenzyme transport and metabolism 
+Rv2978c	-	L	Replication, recombination and repair 
+Rv2979c	-	L	Replication, recombination and repair 
+Rv2981c	ddl	M	Cell wall/membrane/envelope biogenesis 
+Rv2982c	gpsA	C	Energy production and conversion 
+Rv2983	-	S	Function unknown 
+Rv2984	ppk	P	Inorganic ion transport and metabolism 
+Rv2985	mutT1	G	Carbohydrate transport and metabolism 
+Rv2985	mutT1	R	General function prediction only 
+Rv2986c	hupB	L	Replication, recombination and repair 
+Rv2987c	leuD	E	Amino acid transport and metabolism 
+Rv2988c	leuC	E	Amino acid transport and metabolism 
+Rv2989	-	K	Transcription 
+Rv2991	-	P	Inorganic ion transport and metabolism 
+Rv2992c	gltX	J	Translation, ribosomal structure and biogenesis 
+Rv2993c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2994	-	R	General function prediction only 
+Rv2995c	leuB	E	Amino acid transport and metabolism 
+Rv2996c	serA1	E	Amino acid transport and metabolism 
+Rv2997	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv2998A	-	T	Signal transduction mechanisms 
+Rv3000	-	R	General function prediction only 
+Rv3000	-	V	Defense mechanisms 
+Rv3001c	ilvC	H	Coenzyme transport and metabolism 
+Rv3002c	ilvH	E	Amino acid transport and metabolism 
+Rv3003c	ilvB1	H	Coenzyme transport and metabolism 
+Rv3004	cfp6	D	Cell cycle control, cell division, chromosome partitioning 
+Rv3005c	-	S	Function unknown 
+Rv3006	lppZ	G	Carbohydrate transport and metabolism 
+Rv3007c	-	R	General function prediction only 
+Rv3008	-	S	Function unknown 
+Rv3009c	gatB	J	Translation, ribosomal structure and biogenesis 
+Rv3010c	pfkA	G	Carbohydrate transport and metabolism 
+Rv3011c	gatA	J	Translation, ribosomal structure and biogenesis 
+Rv3012c	gatC	J	Translation, ribosomal structure and biogenesis 
+Rv3013	-	E	Amino acid transport and metabolism 
+Rv3014c	ligA	L	Replication, recombination and repair 
+Rv3019c	esxR	S	Function unknown 
+Rv3023c	-	L	Replication, recombination and repair 
+Rv3024c	trmU	J	Translation, ribosomal structure and biogenesis 
+Rv3025c	iscS	E	Amino acid transport and metabolism 
+Rv3026c	-	I	Lipid transport and metabolism 
+Rv3027c	-	R	General function prediction only 
+Rv3028c	fixB	C	Energy production and conversion 
+Rv3029c	fixA	C	Energy production and conversion 
+Rv3030	-	R	General function prediction only 
+Rv3031	-	S	Function unknown 
+Rv3032	-	M	Cell wall/membrane/envelope biogenesis 
+Rv3034c	-	R	General function prediction only 
+Rv3035	-	S	Function unknown 
+Rv3037c	-	R	General function prediction only 
+Rv3038c	-	R	General function prediction only 
+Rv3039c	echA17	I	Lipid transport and metabolism 
+Rv3040c	-	R	General function prediction only 
+Rv3041c	-	P	Inorganic ion transport and metabolism 
+Rv3042c	serB2	E	Amino acid transport and metabolism 
+Rv3042c	serB2	T	Signal transduction mechanisms 
+Rv3043c	ctaD	C	Energy production and conversion 
+Rv3044	fecB	P	Inorganic ion transport and metabolism 
+Rv3045	adhC	R	General function prediction only 
+Rv3048c	nrdF	F	Nucleotide transport and metabolism 
+Rv3049c	-	P	Inorganic ion transport and metabolism 
+Rv3050c	-	K	Transcription 
+Rv3051c	nrdE	F	Nucleotide transport and metabolism 
+Rv3052c	nrdI	F	Nucleotide transport and metabolism 
+Rv3053c	nrdH	O	Posttranslational modification, protein turnover, chaperones 
+Rv3054c	-	R	General function prediction only 
+Rv3056	dinP	L	Replication, recombination and repair 
+Rv3057c	-	R	General function prediction only 
+Rv3058c	-	K	Transcription 
+Rv3059	cyp136	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3060c	-	K	Transcription 
+Rv3061c	fadE22	I	Lipid transport and metabolism 
+Rv3062	ligB	L	Replication, recombination and repair 
+Rv3063	cstA	T	Signal transduction mechanisms 
+Rv3064c	-	S	Function unknown 
+Rv3065	mmr	P	Inorganic ion transport and metabolism 
+Rv3066	-	S	Function unknown 
+Rv3067	-	E	Amino acid transport and metabolism 
+Rv3068c	pgmA	G	Carbohydrate transport and metabolism 
+Rv3069	ccrB	D	Cell cycle control, cell division, chromosome partitioning 
+Rv3070	ccrB	D	Cell cycle control, cell division, chromosome partitioning 
+Rv3071	-	S	Function unknown 
+Rv3072c	-	C	Energy production and conversion 
+Rv3073c	-	S	Function unknown 
+Rv3074	-	V	Defense mechanisms 
+Rv3075c	-	G	Carbohydrate transport and metabolism 
+Rv3077	-	P	Inorganic ion transport and metabolism 
+Rv3079c	-	C	Energy production and conversion 
+Rv3080c	pknK	L	Replication, recombination and repair 
+Rv3080c	pknK	K	Transcription 
+Rv3082c	virS	K	Transcription 
+Rv3083	-	P	Inorganic ion transport and metabolism 
+Rv3084	lipR	I	Lipid transport and metabolism 
+Rv3085	-	R	General function prediction only 
+Rv3086	adhD	C	Energy production and conversion 
+Rv3089	fadD13	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3090	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv3092c	-	S	Function unknown 
+Rv3093c	-	C	Energy production and conversion 
+Rv3094c	-	I	Lipid transport and metabolism 
+Rv3095	-	K	Transcription 
+Rv3097c	PE_PGRS63	I	Lipid transport and metabolism 
+Rv3098c	-	E	Amino acid transport and metabolism 
+Rv3100c	smpB	O	Posttranslational modification, protein turnover, chaperones 
+Rv3101c	ftsX	D	Cell cycle control, cell division, chromosome partitioning 
+Rv3102c	ftsE	D	Cell cycle control, cell division, chromosome partitioning 
+Rv3104c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv3105c	prfB	J	Translation, ribosomal structure and biogenesis 
+Rv3106	fprA	R	General function prediction only 
+Rv3107c	agpS	C	Energy production and conversion 
+Rv3109	moaA1	H	Coenzyme transport and metabolism 
+Rv3110	moaB1	H	Coenzyme transport and metabolism 
+Rv3111	moaC	H	Coenzyme transport and metabolism 
+Rv3112	moaD1	H	Coenzyme transport and metabolism 
+Rv3113	-	R	General function prediction only 
+Rv3114	-	J	Translation, ribosomal structure and biogenesis 
+Rv3115	-	L	Replication, recombination and repair 
+Rv3116	moeB2	H	Coenzyme transport and metabolism 
+Rv3116	moeB2	P	Inorganic ion transport and metabolism 
+Rv3117	cysA3	P	Inorganic ion transport and metabolism 
+Rv3119	moaE1	H	Coenzyme transport and metabolism 
+Rv3120	-	R	General function prediction only 
+Rv3121	cyp141	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3124	-	T	Signal transduction mechanisms 
+Rv3132c	devS	T	Signal transduction mechanisms 
+Rv3132c	devS	T	Signal transduction mechanisms 
+Rv3133c	devR	K	Transcription 
+Rv3134c	-	T	Signal transduction mechanisms 
+Rv3137	-	G	Carbohydrate transport and metabolism 
+Rv3138	pflA	O	Posttranslational modification, protein turnover, chaperones 
+Rv3139	fadE24	I	Lipid transport and metabolism 
+Rv3140	fadE23	I	Lipid transport and metabolism 
+Rv3141	fadB4	R	General function prediction only 
+Rv3143	-	T	Signal transduction mechanisms 
+Rv3145	nuoA	C	Energy production and conversion 
+Rv3146	nuoB	C	Energy production and conversion 
+Rv3147	nuoC	C	Energy production and conversion 
+Rv3148	nuoD	C	Energy production and conversion 
+Rv3149	nuoE	C	Energy production and conversion 
+Rv3150	nuoF	C	Energy production and conversion 
+Rv3151	nuoG	C	Energy production and conversion 
+Rv3152	nuoH	C	Energy production and conversion 
+Rv3153	nuoI	C	Energy production and conversion 
+Rv3154	nuoJ	C	Energy production and conversion 
+Rv3155	nuoK	C	Energy production and conversion 
+Rv3156	nuoL	P	Inorganic ion transport and metabolism 
+Rv3157	nuoM	C	Energy production and conversion 
+Rv3158	nuoN	C	Energy production and conversion 
+Rv3160c	-	K	Transcription 
+Rv3161c	-	R	General function prediction only 
+Rv3163c	-	R	General function prediction only 
+Rv3164c	moxR3	R	General function prediction only 
+Rv3167c	-	K	Transcription 
+Rv3168	-	R	General function prediction only 
+Rv3170	aofH	E	Amino acid transport and metabolism 
+Rv3171c	hpx	R	General function prediction only 
+Rv3173c	-	K	Transcription 
+Rv3174	-	R	General function prediction only 
+Rv3175	-	J	Translation, ribosomal structure and biogenesis 
+Rv3176c	mesT	R	General function prediction only 
+Rv3177	-	R	General function prediction only 
+Rv3179	-	R	General function prediction only 
+Rv3180c	-	R	General function prediction only 
+Rv3181c	-	K	Transcription 
+Rv3181c	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv3182	-	S	Function unknown 
+Rv3183	-	K	Transcription 
+Rv3184	-	L	Replication, recombination and repair 
+Rv3185	-	L	Replication, recombination and repair 
+Rv3186	-	L	Replication, recombination and repair 
+Rv3187	-	L	Replication, recombination and repair 
+Rv3191c	-	L	Replication, recombination and repair 
+Rv3192	-	C	Energy production and conversion 
+Rv3193c	-	S	Function unknown 
+Rv3194c	-	T	Signal transduction mechanisms 
+Rv3195	-	S	Function unknown 
+Rv3197	-	R	General function prediction only 
+Rv3198c	uvrD2	L	Replication, recombination and repair 
+Rv3198A	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv3199c	nudC	L	Replication, recombination and repair 
+Rv3200c	-	P	Inorganic ion transport and metabolism 
+Rv3201c	-	L	Replication, recombination and repair 
+Rv3201c	-	L	Replication, recombination and repair 
+Rv3202c	-	L	Replication, recombination and repair 
+Rv3202c	-	L	Replication, recombination and repair 
+Rv3203	lipV	R	General function prediction only 
+Rv3204	-	L	Replication, recombination and repair 
+Rv3206c	moeB1	H	Coenzyme transport and metabolism 
+Rv3206c	moeB1	P	Inorganic ion transport and metabolism 
+Rv3208	-	K	Transcription 
+Rv3211	rhlE	J	Translation, ribosomal structure and biogenesis 
+Rv3213c	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv3214	gpm2	G	Carbohydrate transport and metabolism 
+Rv3215	entC	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3216	-	R	General function prediction only 
+Rv3218	-	R	General function prediction only 
+Rv3220c	-	T	Signal transduction mechanisms 
+Rv3221c	TB7.3	I	Lipid transport and metabolism 
+Rv3221A	-	P	Inorganic ion transport and metabolism 
+Rv3223c	sigH	K	Transcription 
+Rv3224	-	R	General function prediction only 
+Rv3224B	-	S	Function unknown 
+Rv3225c	-	J	Translation, ribosomal structure and biogenesis 
+Rv3225c	-	R	General function prediction only 
+Rv3226c	-	S	Function unknown 
+Rv3227	aroA	E	Amino acid transport and metabolism 
+Rv3228	-	R	General function prediction only 
+Rv3229c	-	I	Lipid transport and metabolism 
+Rv3230c	-	C	Energy production and conversion 
+Rv3232c	pvdS	S	Function unknown 
+Rv3236c	-	P	Inorganic ion transport and metabolism 
+Rv3237c	-	P	Inorganic ion transport and metabolism 
+Rv3238c	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv3239c	-	R	General function prediction only 
+Rv3239c	-	T	Signal transduction mechanisms 
+Rv3239c	-	R	General function prediction only 
+Rv3240c	secA1	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv3241c	-	J	Translation, ribosomal structure and biogenesis 
+Rv3242c	-	R	General function prediction only 
+Rv3245c	mtrB	T	Signal transduction mechanisms 
+Rv3246c	mtrA	K	Transcription 
+Rv3247c	tmk	F	Nucleotide transport and metabolism 
+Rv3248c	sahH	H	Coenzyme transport and metabolism 
+Rv3249c	-	K	Transcription 
+Rv3250c	rubB	C	Energy production and conversion 
+Rv3251c	rubA	C	Energy production and conversion 
+Rv3253c	-	E	Amino acid transport and metabolism 
+Rv3255c	manA	G	Carbohydrate transport and metabolism 
+Rv3257c	manB	G	Carbohydrate transport and metabolism 
+Rv3259	-	L	Replication, recombination and repair 
+Rv3261	fbiA	S	Function unknown 
+Rv3262	fbiB	C	Energy production and conversion 
+Rv3262	fbiB	S	Function unknown 
+Rv3263	-	L	Replication, recombination and repair 
+Rv3264c	manB	J	Translation, ribosomal structure and biogenesis 
+Rv3265c	wbbL1	R	General function prediction only 
+Rv3266c	rmlD	M	Cell wall/membrane/envelope biogenesis 
+Rv3267	-	K	Transcription 
+Rv3270	ctpC	P	Inorganic ion transport and metabolism 
+Rv3272	-	C	Energy production and conversion 
+Rv3273	-	P	Inorganic ion transport and metabolism 
+Rv3273	-	P	Inorganic ion transport and metabolism 
+Rv3274c	fadE25	I	Lipid transport and metabolism 
+Rv3275c	purE	F	Nucleotide transport and metabolism 
+Rv3276c	purK	F	Nucleotide transport and metabolism 
+Rv3277	-	S	Function unknown 
+Rv3279c	birA	H	Coenzyme transport and metabolism 
+Rv3280	accD5	I	Lipid transport and metabolism 
+Rv3282	maf	D	Cell cycle control, cell division, chromosome partitioning 
+Rv3283	sseA	P	Inorganic ion transport and metabolism 
+Rv3284	-	R	General function prediction only 
+Rv3285	accA3	I	Lipid transport and metabolism 
+Rv3286c	sigF	K	Transcription 
+Rv3287c	rsbW	T	Signal transduction mechanisms 
+Rv3290c	lat	E	Amino acid transport and metabolism 
+Rv3291c	-	K	Transcription 
+Rv3292	-	S	Function unknown 
+Rv3293	pcd	C	Energy production and conversion 
+Rv3294c	-	R	General function prediction only 
+Rv3295	-	K	Transcription 
+Rv3296	lhr	R	General function prediction only 
+Rv3297	nei	L	Replication, recombination and repair 
+Rv3298c	lpqC	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3299c	atsB	P	Inorganic ion transport and metabolism 
+Rv3300c	-	J	Translation, ribosomal structure and biogenesis 
+Rv3301c	phoY1	P	Inorganic ion transport and metabolism 
+Rv3302c	glpD2	C	Energy production and conversion 
+Rv3303c	lpdA	C	Energy production and conversion 
+Rv3305c	amiA1	R	General function prediction only 
+Rv3306c	amiB1	R	General function prediction only 
+Rv3307	deoD	F	Nucleotide transport and metabolism 
+Rv3308	pmmB	G	Carbohydrate transport and metabolism 
+Rv3309c	upp	F	Nucleotide transport and metabolism 
+Rv3312c	-	R	General function prediction only 
+Rv3313c	add	F	Nucleotide transport and metabolism 
+Rv3314c	deoA	F	Nucleotide transport and metabolism 
+Rv3315c	cdd	F	Nucleotide transport and metabolism 
+Rv3316	sdhC	C	Energy production and conversion 
+Rv3317	sdhD	C	Energy production and conversion 
+Rv3318	sdhA	C	Energy production and conversion 
+Rv3319	sdhB	C	Energy production and conversion 
+Rv3320c	-	R	General function prediction only 
+Rv3322c	-	R	General function prediction only 
+Rv3323c	moaX	H	Coenzyme transport and metabolism 
+Rv3323c	moaX	H	Coenzyme transport and metabolism 
+Rv3324c	moaC	H	Coenzyme transport and metabolism 
+Rv3325	-	L	Replication, recombination and repair 
+Rv3326	-	L	Replication, recombination and repair 
+Rv3327	-	S	Function unknown 
+Rv3327	-	L	Replication, recombination and repair 
+Rv3328c	sigJ	K	Transcription 
+Rv3329	-	H	Coenzyme transport and metabolism 
+Rv3330	dacB1	M	Cell wall/membrane/envelope biogenesis 
+Rv3331	sugI	R	General function prediction only 
+Rv3332	nagA	G	Carbohydrate transport and metabolism 
+Rv3334	-	K	Transcription 
+Rv3335c	-	S	Function unknown 
+Rv3336c	trpS	J	Translation, ribosomal structure and biogenesis 
+Rv3337	-	R	General function prediction only 
+Rv3338	-	R	General function prediction only 
+Rv3339c	icd1	C	Energy production and conversion 
+Rv3340	metC	E	Amino acid transport and metabolism 
+Rv3341	metX	E	Amino acid transport and metabolism 
+Rv3342	-	R	General function prediction only 
+Rv3349c	-	L	Replication, recombination and repair 
+Rv3351c	-	C	Energy production and conversion 
+Rv3352c	-	C	Energy production and conversion 
+Rv3356c	folD	H	Coenzyme transport and metabolism 
+Rv3357	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv3358	-	S	Function unknown 
+Rv3359	-	C	Energy production and conversion 
+Rv3360	-	T	Signal transduction mechanisms 
+Rv3361c	-	S	Function unknown 
+Rv3362c	-	R	General function prediction only 
+Rv3364c	-	R	General function prediction only 
+Rv3365c	-	T	Signal transduction mechanisms 
+Rv3366	spoU	J	Translation, ribosomal structure and biogenesis 
+Rv3368c	-	C	Energy production and conversion 
+Rv3369	-	H	Coenzyme transport and metabolism 
+Rv3370c	dnaE2	L	Replication, recombination and repair 
+Rv3372	otsB2	R	General function prediction only 
+Rv3372	otsB2	G	Carbohydrate transport and metabolism 
+Rv3373	echA18	I	Lipid transport and metabolism 
+Rv3374	echA18.1	I	Lipid transport and metabolism 
+Rv3375	amiD	J	Translation, ribosomal structure and biogenesis 
+Rv3376	-	R	General function prediction only 
+Rv3379c	dxs2	I	Lipid transport and metabolism 
+Rv3380c	-	L	Replication, recombination and repair 
+Rv3381c	-	L	Replication, recombination and repair 
+Rv3382c	lytB1	M	Cell wall/membrane/envelope biogenesis 
+Rv3383c	idsB	H	Coenzyme transport and metabolism 
+Rv3385c	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv3386	-	L	Replication, recombination and repair 
+Rv3387	-	L	Replication, recombination and repair 
+Rv3389c	-	I	Lipid transport and metabolism 
+Rv3390	lpqD	G	Carbohydrate transport and metabolism 
+Rv3391	acrA1	R	General function prediction only 
+Rv3391	acrA1	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3392c	cmaA1	M	Cell wall/membrane/envelope biogenesis 
+Rv3393	iunH	F	Nucleotide transport and metabolism 
+Rv3394c	-	L	Replication, recombination and repair 
+Rv3396c	guaA	F	Nucleotide transport and metabolism 
+Rv3396c	guaA	F	Nucleotide transport and metabolism 
+Rv3397c	phyA	I	Lipid transport and metabolism 
+Rv3398c	idsA1	H	Coenzyme transport and metabolism 
+Rv3399	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3400	-	R	General function prediction only 
+Rv3401	-	G	Carbohydrate transport and metabolism 
+Rv3402c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv3403c	-	S	Function unknown 
+Rv3404c	-	J	Translation, ribosomal structure and biogenesis 
+Rv3405c	-	K	Transcription 
+Rv3406	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3407	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv3408	-	R	General function prediction only 
+Rv3409c	choD	E	Amino acid transport and metabolism 
+Rv3410c	guaB3	F	Nucleotide transport and metabolism 
+Rv3411c	guaB2	F	Nucleotide transport and metabolism 
+Rv3411c	guaB2	R	General function prediction only 
+Rv3414c	sigD	K	Transcription 
+Rv3417c	groEL	O	Posttranslational modification, protein turnover, chaperones 
+Rv3418c	groES	O	Posttranslational modification, protein turnover, chaperones 
+Rv3419c	gcp	O	Posttranslational modification, protein turnover, chaperones 
+Rv3420c	rimI	R	General function prediction only 
+Rv3421c	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv3422c	-	R	General function prediction only 
+Rv3423c	alr	M	Cell wall/membrane/envelope biogenesis 
+Rv3427c	-	L	Replication, recombination and repair 
+Rv3428c	-	L	Replication, recombination and repair 
+Rv3430c	-	L	Replication, recombination and repair 
+Rv3431c	-	L	Replication, recombination and repair 
+Rv3432c	gadB	E	Amino acid transport and metabolism 
+Rv3433c	-	S	Function unknown 
+Rv3433c	-	G	Carbohydrate transport and metabolism 
+Rv3436c	glmS	M	Cell wall/membrane/envelope biogenesis 
+Rv3441c	mrsA	G	Carbohydrate transport and metabolism 
+Rv3442c	rpsI	J	Translation, ribosomal structure and biogenesis 
+Rv3443c	rplM	J	Translation, ribosomal structure and biogenesis 
+Rv3444c	esxT	S	Function unknown 
+Rv3445c	esxU	S	Function unknown 
+Rv3447c	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv3449	mycP4	O	Posttranslational modification, protein turnover, chaperones 
+Rv3455c	truA	J	Translation, ribosomal structure and biogenesis 
+Rv3456c	rplQ	J	Translation, ribosomal structure and biogenesis 
+Rv3457c	rpoA	K	Transcription 
+Rv3458c	rpsD	J	Translation, ribosomal structure and biogenesis 
+Rv3459c	rpsK	J	Translation, ribosomal structure and biogenesis 
+Rv3460c	rpsM	J	Translation, ribosomal structure and biogenesis 
+Rv3461c	rpmJ	J	Translation, ribosomal structure and biogenesis 
+Rv3462c	infA	J	Translation, ribosomal structure and biogenesis 
+Rv3463	-	C	Energy production and conversion 
+Rv3464	rmlB	M	Cell wall/membrane/envelope biogenesis 
+Rv3465	rmlC	M	Cell wall/membrane/envelope biogenesis 
+Rv3468c	-	G	Carbohydrate transport and metabolism 
+Rv3469c	mhpE	E	Amino acid transport and metabolism 
+Rv3470c	ilvB2	H	Coenzyme transport and metabolism 
+Rv3471c	-	G	Carbohydrate transport and metabolism 
+Rv3473c	bpoA	R	General function prediction only 
+Rv3474	-	L	Replication, recombination and repair 
+Rv3475	-	L	Replication, recombination and repair 
+Rv3476c	kgtP	R	General function prediction only 
+Rv3480c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3484	cpsA	K	Transcription 
+Rv3485c	-	R	General function prediction only 
+Rv3486	-	S	Function unknown 
+Rv3487c	lipF	I	Lipid transport and metabolism 
+Rv3488	-	K	Transcription 
+Rv3490	otsA	G	Carbohydrate transport and metabolism 
+Rv3494c	mce4F	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3495c	lprN	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3496c	mce4D	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3497c	mce4C	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3498c	mce4B	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3499c	mce4A	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3500c	yrbE4B	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3501c	yrbE4A	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3502c	fabG	R	General function prediction only 
+Rv3503c	fdxD	C	Energy production and conversion 
+Rv3504	fadE26	I	Lipid transport and metabolism 
+Rv3505	fadE27	I	Lipid transport and metabolism 
+Rv3506	fadD17	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3509c	ilvX	H	Coenzyme transport and metabolism 
+Rv3510c	-	R	General function prediction only 
+Rv3513c	fadD18	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3515c	fadD19	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3516	echA19	I	Lipid transport and metabolism 
+Rv3517	-	L	Replication, recombination and repair 
+Rv3518c	cyp142	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3520c	-	C	Energy production and conversion 
+Rv3521	-	R	General function prediction only 
+Rv3522	ltp4	I	Lipid transport and metabolism 
+Rv3523	ltp3	I	Lipid transport and metabolism 
+Rv3524	-	S	Function unknown 
+Rv3525c	-	R	General function prediction only 
+Rv3526	-	R	General function prediction only 
+Rv3530c	-	R	General function prediction only 
+Rv3534c	-	E	Amino acid transport and metabolism 
+Rv3535c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3536c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3537	-	C	Energy production and conversion 
+Rv3538	-	I	Lipid transport and metabolism 
+Rv3540c	ltp2	I	Lipid transport and metabolism 
+Rv3542c	-	R	General function prediction only 
+Rv3543c	fadE29	I	Lipid transport and metabolism 
+Rv3544c	fadE28	I	Lipid transport and metabolism 
+Rv3545c	cyp125	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3546	fadA5	I	Lipid transport and metabolism 
+Rv3548c	-	R	General function prediction only 
+Rv3549c	-	R	General function prediction only 
+Rv3550	echA20	I	Lipid transport and metabolism 
+Rv3551	-	I	Lipid transport and metabolism 
+Rv3552	-	I	Lipid transport and metabolism 
+Rv3553	-	R	General function prediction only 
+Rv3554	fdxB	C	Energy production and conversion 
+Rv3554	fdxB	I	Lipid transport and metabolism 
+Rv3556c	fadA6	I	Lipid transport and metabolism 
+Rv3557c	-	K	Transcription 
+Rv3559c	-	R	General function prediction only 
+Rv3560c	fadE30	I	Lipid transport and metabolism 
+Rv3561	fadD3	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3562	fadE31	I	Lipid transport and metabolism 
+Rv3563	fadE32	I	Lipid transport and metabolism 
+Rv3564	fadE33	I	Lipid transport and metabolism 
+Rv3565	aspB	E	Amino acid transport and metabolism 
+Rv3566c	nat	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3567c	-	R	General function prediction only 
+Rv3568c	bphC	E	Amino acid transport and metabolism 
+Rv3569c	bphD	R	General function prediction only 
+Rv3570c	-	I	Lipid transport and metabolism 
+Rv3571	hmp	C	Energy production and conversion 
+Rv3573c	fadE34	I	Lipid transport and metabolism 
+Rv3574	-	K	Transcription 
+Rv3575c	-	K	Transcription 
+Rv3577	-	R	General function prediction only 
+Rv3578	arsB2	P	Inorganic ion transport and metabolism 
+Rv3579c	-	J	Translation, ribosomal structure and biogenesis 
+Rv3580c	cysS	J	Translation, ribosomal structure and biogenesis 
+Rv3581c	ispF	I	Lipid transport and metabolism 
+Rv3582c	ispD	I	Lipid transport and metabolism 
+Rv3583c	-	K	Transcription 
+Rv3585	radA	O	Posttranslational modification, protein turnover, chaperones 
+Rv3586	-	R	General function prediction only 
+Rv3588c	-	P	Inorganic ion transport and metabolism 
+Rv3589	mutY	L	Replication, recombination and repair 
+Rv3591c	-	R	General function prediction only 
+Rv3592	TB11.2	R	General function prediction only 
+Rv3593	lpqF	V	Defense mechanisms 
+Rv3596c	clpC1	O	Posttranslational modification, protein turnover, chaperones 
+Rv3598c	lysS	J	Translation, ribosomal structure and biogenesis 
+Rv3600c	-	K	Transcription 
+Rv3601c	panD	H	Coenzyme transport and metabolism 
+Rv3602c	panC	H	Coenzyme transport and metabolism 
+Rv3603c	-	S	Function unknown 
+Rv3606c	folK	H	Coenzyme transport and metabolism 
+Rv3607c	folB	H	Coenzyme transport and metabolism 
+Rv3608c	folP1	H	Coenzyme transport and metabolism 
+Rv3609c	folE	H	Coenzyme transport and metabolism 
+Rv3610c	ftsH	O	Posttranslational modification, protein turnover, chaperones 
+Rv3617	ephA	R	General function prediction only 
+Rv3618	-	C	Energy production and conversion 
+Rv3623	lpqG	S	Function unknown 
+Rv3624c	hpt	F	Nucleotide transport and metabolism 
+Rv3625c	mesJ	D	Cell cycle control, cell division, chromosome partitioning 
+Rv3626c	-	S	Function unknown 
+Rv3627c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv3628	ppa	C	Energy production and conversion 
+Rv3629c	-	S	Function unknown 
+Rv3631	-	M	Cell wall/membrane/envelope biogenesis 
+Rv3633	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3634c	galE1	G	Carbohydrate transport and metabolism 
+Rv3636	-	L	Replication, recombination and repair 
+Rv3637	-	L	Replication, recombination and repair 
+Rv3638	-	L	Replication, recombination and repair 
+Rv3640c	-	L	Replication, recombination and repair 
+Rv3641c	fic	D	Cell cycle control, cell division, chromosome partitioning 
+Rv3644c	-	L	Replication, recombination and repair 
+Rv3645	-	T	Signal transduction mechanisms 
+Rv3646c	topA	L	Replication, recombination and repair 
+Rv3646c	topA	R	General function prediction only 
+Rv3648c	cspA	K	Transcription 
+Rv3649	-	R	General function prediction only 
+Rv3657c	-	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv3659c	-	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv3661	-	E	Amino acid transport and metabolism 
+Rv3662c	-	S	Function unknown 
+Rv3663c	dppD	R	General function prediction only 
+Rv3664c	dppC	P	Inorganic ion transport and metabolism 
+Rv3665c	dppB	P	Inorganic ion transport and metabolism 
+Rv3666c	dppA	E	Amino acid transport and metabolism 
+Rv3667	acs	I	Lipid transport and metabolism 
+Rv3670	ephE	R	General function prediction only 
+Rv3671c	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv3672c	-	R	General function prediction only 
+Rv3673c	-	C	Energy production and conversion 
+Rv3674c	nth	L	Replication, recombination and repair 
+Rv3676	-	T	Signal transduction mechanisms 
+Rv3677c	-	R	General function prediction only 
+Rv3678c	-	J	Translation, ribosomal structure and biogenesis 
+Rv3679	-	P	Inorganic ion transport and metabolism 
+Rv3680	-	P	Inorganic ion transport and metabolism 
+Rv3682	ponA2	M	Cell wall/membrane/envelope biogenesis 
+Rv3683	-	R	General function prediction only 
+Rv3684	-	E	Amino acid transport and metabolism 
+Rv3685c	cyp137	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3687c	rsfB	T	Signal transduction mechanisms 
+Rv3688c	-	S	Function unknown 
+Rv3692	moxR2	R	General function prediction only 
+Rv3693	-	R	General function prediction only 
+Rv3694c	-	S	Function unknown 
+Rv3695	-	S	Function unknown 
+Rv3696c	glpK	C	Energy production and conversion 
+Rv3697c	-	R	General function prediction only 
+Rv3699	-	R	General function prediction only 
+Rv3700c	-	E	Amino acid transport and metabolism 
+Rv3701c	-	S	Function unknown 
+Rv3702c	-	R	General function prediction only 
+Rv3703c	-	S	Function unknown 
+Rv3704c	gshA	H	Coenzyme transport and metabolism 
+Rv3708c	asd	E	Amino acid transport and metabolism 
+Rv3709c	ask	E	Amino acid transport and metabolism 
+Rv3710	leuA	E	Amino acid transport and metabolism 
+Rv3711c	dnaQ	L	Replication, recombination and repair 
+Rv3712	-	M	Cell wall/membrane/envelope biogenesis 
+Rv3713	cobQ2	R	General function prediction only 
+Rv3715c	recR	L	Replication, recombination and repair 
+Rv3716c	-	S	Function unknown 
+Rv3717	-	M	Cell wall/membrane/envelope biogenesis 
+Rv3719	-	C	Energy production and conversion 
+Rv3720	-	M	Cell wall/membrane/envelope biogenesis 
+Rv3721c	dnaZX	L	Replication, recombination and repair 
+Rv3722c	-	E	Amino acid transport and metabolism 
+Rv3725	-	G	Carbohydrate transport and metabolism 
+Rv3726	-	R	General function prediction only 
+Rv3727	-	S	Function unknown 
+Rv3728	-	R	General function prediction only 
+Rv3728	-	R	General function prediction only 
+Rv3729	-	R	General function prediction only 
+Rv3729	-	R	General function prediction only 
+Rv3730c	-	L	Replication, recombination and repair 
+Rv3731	ligC	L	Replication, recombination and repair 
+Rv3732	-	S	Function unknown 
+Rv3733c	-	R	General function prediction only 
+Rv3735	-	S	Function unknown 
+Rv3736	-	K	Transcription 
+Rv3737	-	S	Function unknown 
+Rv3737	-	S	Function unknown 
+Rv3741c	-	P	Inorganic ion transport and metabolism 
+Rv3742c	-	P	Inorganic ion transport and metabolism 
+Rv3743c	ctpJ	P	Inorganic ion transport and metabolism 
+Rv3744	-	K	Transcription 
+Rv3745c	-	S	Function unknown 
+Rv3751	-	L	Replication, recombination and repair 
+Rv3752c	-	J	Translation, ribosomal structure and biogenesis 
+Rv3754	tyrA	E	Amino acid transport and metabolism 
+Rv3755c	-	S	Function unknown 
+Rv3756c	proZ	E	Amino acid transport and metabolism 
+Rv3757c	proW	E	Amino acid transport and metabolism 
+Rv3758c	proV	E	Amino acid transport and metabolism 
+Rv3759c	proX	M	Cell wall/membrane/envelope biogenesis 
+Rv3761c	fadE36	R	General function prediction only 
+Rv3762c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3764c	-	T	Signal transduction mechanisms 
+Rv3765c	-	K	Transcription 
+Rv3767c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3769	-	T	Signal transduction mechanisms 
+Rv3772	hisC2	E	Amino acid transport and metabolism 
+Rv3774	echA21	I	Lipid transport and metabolism 
+Rv3775	lipE	V	Defense mechanisms 
+Rv3777	-	R	General function prediction only 
+Rv3778c	-	E	Amino acid transport and metabolism 
+Rv3781	rfbE	M	Cell wall/membrane/envelope biogenesis 
+Rv3782	-	R	General function prediction only 
+Rv3783	rfbD	M	Cell wall/membrane/envelope biogenesis 
+Rv3784	-	G	Carbohydrate transport and metabolism 
+Rv3786c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv3786c	-	M	Cell wall/membrane/envelope biogenesis 
+Rv3787c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3788	-	K	Transcription 
+Rv3789	-	S	Function unknown 
+Rv3790	-	C	Energy production and conversion 
+Rv3791	-	R	General function prediction only 
+Rv3796	-	R	General function prediction only 
+Rv3797	fadE35	I	Lipid transport and metabolism 
+Rv3798	-	L	Replication, recombination and repair 
+Rv3799c	accD4	I	Lipid transport and metabolism 
+Rv3800c	pks13	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3800c	pks13	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3801c	fadD32	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3803c	fbpD	R	General function prediction only 
+Rv3804c	fbpA	R	General function prediction only 
+Rv3806c	-	H	Coenzyme transport and metabolism 
+Rv3807c	-	I	Lipid transport and metabolism 
+Rv3808c	glfT	R	General function prediction only 
+Rv3809c	glf	M	Cell wall/membrane/envelope biogenesis 
+Rv3811	-	M	Cell wall/membrane/envelope biogenesis 
+Rv3813c	-	R	General function prediction only 
+Rv3814c	-	I	Lipid transport and metabolism 
+Rv3815c	-	I	Lipid transport and metabolism 
+Rv3816c	-	I	Lipid transport and metabolism 
+Rv3817	-	J	Translation, ribosomal structure and biogenesis 
+Rv3818	-	R	General function prediction only 
+Rv3818	-	R	General function prediction only 
+Rv3820c	papA2	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3823c	mmpL8	R	General function prediction only 
+Rv3824c	papA1	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3825c	pks2	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3826	fadD23	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3827c	-	L	Replication, recombination and repair 
+Rv3828c	-	L	Replication, recombination and repair 
+Rv3829c	-	Q	Secondary metabolites biosynthesis, transport and catabolism 
+Rv3830c	-	K	Transcription 
+Rv3832c	-	R	General function prediction only 
+Rv3833	-	K	Transcription 
+Rv3834c	serS	J	Translation, ribosomal structure and biogenesis 
+Rv3836	-	S	Function unknown 
+Rv3837c	-	G	Carbohydrate transport and metabolism 
+Rv3838c	pheA	E	Amino acid transport and metabolism 
+Rv3840	-	K	Transcription 
+Rv3841	bfrB	P	Inorganic ion transport and metabolism 
+Rv3842c	glpQ1	C	Energy production and conversion 
+Rv3846	sodA	P	Inorganic ion transport and metabolism 
+Rv3848	-	S	Function unknown 
+Rv3853	menG	H	Coenzyme transport and metabolism 
+Rv3854c	ethA	P	Inorganic ion transport and metabolism 
+Rv3855	ethR	K	Transcription 
+Rv3856c	-	R	General function prediction only 
+Rv3858c	gltD	R	General function prediction only 
+Rv3859c	gltB	E	Amino acid transport and metabolism 
+Rv3859c	gltB	E	Amino acid transport and metabolism 
+Rv3859c	gltB	E	Amino acid transport and metabolism 
+Rv3862c	whiB6	J	Translation, ribosomal structure and biogenesis 
+Rv3868	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv3870	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv3871	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv3875	esxA	S	Function unknown 
+Rv3876	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv3883c	mycP1	O	Posttranslational modification, protein turnover, chaperones 
+Rv3884c	-	O	Posttranslational modification, protein turnover, chaperones 
+Rv3886c	mycP2	O	Posttranslational modification, protein turnover, chaperones 
+Rv3888c	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv3888c	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv3890c	esxC	S	Function unknown 
+Rv3894c	-	D	Cell cycle control, cell division, chromosome partitioning 
+Rv3896c	-	R	General function prediction only 
+Rv3905c	esxF	S	Function unknown 
+Rv3907c	pcnA	J	Translation, ribosomal structure and biogenesis 
+Rv3908	-	R	General function prediction only 
+Rv3910	-	L	Replication, recombination and repair 
+Rv3910	-	R	General function prediction only 
+Rv3911	sigM	K	Transcription 
+Rv3913	trxB2	O	Posttranslational modification, protein turnover, chaperones 
+Rv3914	trxC	C	Energy production and conversion 
+Rv3915	-	M	Cell wall/membrane/envelope biogenesis 
+Rv3915	-	M	Cell wall/membrane/envelope biogenesis 
+Rv3917c	parB	K	Transcription 
+Rv3918c	parA	D	Cell cycle control, cell division, chromosome partitioning 
+Rv3919c	gidB	M	Cell wall/membrane/envelope biogenesis 
+Rv3920c	-	R	General function prediction only 
+Rv3921c	-	U	Intracellular trafficking, secretion, and vesicular transport 
+Rv3922c	-	S	Function unknown 
+Rv3923c	rnpA	J	Translation, ribosomal structure and biogenesis 
+Rv3924c	rpmH	J	Translation, ribosomal structure and biogenesis 

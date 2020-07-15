@@ -19,12 +19,12 @@ for line in open("corr.txt"):
   correlations[w[0]] = float(w[1])
 
 genenames = {}
-for line in open("../H37Rv3.prot_table"):
+for line in open("H37Rv3.prot_table"):
   w = line.rstrip().split("\t")
   genenames[w[8]] = w[7]
 
 COG = {}
-for line in open("/pacific/home/ioerger/genomics/H37Rv.COG_roles.dat"):
+for line in open("H37Rv.COG_roles.dat"):
   w = line.rstrip().split('\t')
   COG[w[0]] = w[3]
 
