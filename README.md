@@ -71,3 +71,16 @@ curves to identify periodic genes.
 
 ![](Rv0001_cos.png)
 
+
+
+Clustering of Expression Patterns
+---------------------------------
+
+- script: cluster.R
+- dependency: R, and gplots library
+- usage: `Rscript cluster.R <inputfile> <output_spreadsheet> <output_pdf> <K>`
+  - input file: spreadsheet with curvefit means of expression for each each gene at each timepoint
+  - output file: tab-separated spreadsheet (.txt) with cluster numbers for each gene
+  - K: number of clusters (integer)
+- example: `Rscript cluster.R curvefit2_cos_means.txt curvefit2_cos_clust.txt curvefit2_cos_clusters.pdf 8`
+
