@@ -10,15 +10,15 @@ curves to identify periodic genes.
 
 - script: curvefit2.py
 - dependencies: scipy and statsmodels (python packages)
-- usage: `python curvefit2.py [cos|rv]` 
-- input files: (script automatically reads these)
-  - total_deseq_norm_skip0hr.txt (normalized expression values of each gene at each timepoint in each replicate of each strain)
-  - corr.txt (contains correlation coefficients between cos and rv for all genes)
-  - H37Rv3.prot_table (annotation - info on ORFs)
-  - H37Rv.COG_roles.dat (functional categories for each genes)
+- usage: `python curvefit2.py <normalized_expression_file> [cos|rv]` 
+- input files: 
+  - normalized_expression_file ![total_deseq_norm_skip0hr.txt](total_deseq_norm_skip0hr.txt) - (normalized expression values of each gene at each timepoint in each replicate of each strain) 
+  - corr.txt (contains correlation coefficients between cos and rv for all genes) (script automatically reads this)
+  - H37Rv3.prot_table (annotation, info on ORFs) (script automatically reads this)
+  - H37Rv.COG_roles.dat (functional categories for each genes) (script automatically reads this)
 - output: fits curves for all genes to cos or rv cells; saves parameter estimates and goodness-of-fit in a tab-separated spreadsheet
 - runtime: about 15 seconds
-- Example: `python curvefit2.py cos > curvefit2_cos.txt`
+- Example: `python curvefit2.py total_deseq_norm_skip0hr.txt cos > curvefit2_cos.txt`
 - columns in output file:
   -  orf ID
   -  gene Name

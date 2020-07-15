@@ -38,14 +38,14 @@ def Q(x,a,b,c): return a*x*x+b*x+c
 
 ###############################
 
-if len(sys.argv)<2 or sys.argv[1] not in ["cos","rv","permute"]:
-  print("usage: python curvefit2.py [cos|rv|permute]")
+if len(sys.argv)<3 or sys.argv[2] not in ["cos","rv","permute"]:
+  print("usage: python curvefit2.py <normalized_expression_file> [cos|rv|permute]")
   sys.exit(0)
-series = sys.argv[1]
+series = sys.argv[2]
 
 data = []
 skip = 1
-for line in open("total_deseq_norm_skip0hr.txt"):
+for line in open(sys.argv[1]): # "total_deseq_norm_skip0hr.txt"
   if skip>0: skip -= 1; continue
   w = line.split()
   data.append(w)
