@@ -17,6 +17,7 @@ Gaussian-Process Smoothing of expression profiles
 - example: `python fitGP.py Rv1907c cos Rv1907c_cos.png`
 - runtime: about 15 seconds
 
+![](Rv1907c_cos.png)
 
 
 Cell-cycle Modeling
