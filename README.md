@@ -43,7 +43,9 @@ Clustering of Expression Profiles
   - input file: spreadsheet with curvefit means of expression for each each gene at each timepoint
   - output file: tab-separated spreadsheet (.txt) with cluster numbers for each gene
   - K: number of clusters (integer)
-- example: `Rscript cluster.R curvefit2_cos_means.txt curvefit2_cos_clust.txt curvefit2_cos_clusters.pdf 8`
+- example: 
+<BR>`Rscript cluster.R curvefit2_cos_means.txt curvefit2_cos_clust.txt curvefit2_cos_clusters.pdf 8`
+<BR>output files:
 <BR>[curvefit2_cos_clust.txt](curvefit2_cos_clust.txt), [curvefit2_cos_clusters.pdf](curvefit2_cos_clusters.pdf)
 
 ![](cluster1.png)
