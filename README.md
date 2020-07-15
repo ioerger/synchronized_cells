@@ -43,7 +43,7 @@ cc_fha = 0.9577
 
 ![](sim4.png)
 
-Curve-fitting of expression patterns with sinusoidal and quadratic 
+Curve-fitting of expression profiles with sinusoidal and quadratic 
 curves to identify periodic genes.
 ------------------------------------------------------------------
 
@@ -73,7 +73,7 @@ curves to identify periodic genes.
 
 
 
-Clustering of Expression Patterns
+Clustering of Expression Profiles
 ---------------------------------
 
 - script: cluster.R
